@@ -9,7 +9,7 @@
         "make"
     ],
     "STATIC_SERVER_ADDRESS": "211.116.223.195",
-    "PROJECT_KEY": "TE11",
+    "PROJECT_KEY": "AAA1112",
     "TOOLCHAIN_FILENAME": "parser.sconf",
     "PARSING": {
         "C": {
