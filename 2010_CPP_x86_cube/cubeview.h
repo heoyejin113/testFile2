@@ -32,6 +32,7 @@ public:
 	BOOL bSetupPixelFormat(void);
 	unsigned char ComponentFromIndex(int i, UINT nbits, UINT shift);
 	void DrawScene(void);
+	printf("hello!");
 
 // Overrides
 	// ClassWizard generated virtual function overrides
