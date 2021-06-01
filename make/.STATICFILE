@@ -1,6 +1,6 @@
 {
     "REANALYZE": false,
-    "WORKING_DIR": "C:\\Users\\mac1\\Downloads\\git\\make\\.staticdata",
+    "WORKING_DIR": "C:\\Users\\mac1\\Downloads\\gitTest2\\make\\.staticdata",
     "COMPILER_INSTALLATION_PATH": [
         "C:\\MinGW"
     ],
@@ -9,7 +9,7 @@
         "make"
     ],
     "STATIC_SERVER_ADDRESS": "211.116.223.195",
-    "PROJECT_KEY": "BBM",
+    "PROJECT_KEY": "GGGG1",
     "TOOLCHAIN_FILENAME": "parser.sconf",
     "PARSING": {
         "C": {
