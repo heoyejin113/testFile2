@@ -1,0 +1,10 @@
+[INFO ] [main] Importing project.
+[INFO ] [main] Importing ruleSet.
+[INFO ] [main] Importing analysis exclusion.
+[INFO ] [main] Creating new revision.
+[WARN ] [main] 'complete' has no analysis target
+[INFO ] [main] Start Analysis.
+[INFO ] [main] Updating revision.: PENDING
+[INFO ] [main] Updating revision.: ANALYZING
+[INFO ] [main] Updating revision.: ERROR
+[ERROR] [main] null

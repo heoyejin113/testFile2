@@ -1,0 +1,49 @@
+[2021-05-11 오전 10:49:18] [PROGRESS] 010
+[2021-05-11 오전 10:49:18] [INFO] - Solution file: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.sln
+[2021-05-11 오전 10:49:18] [INFO] - Output path  : C:\Users\mac1\Downloads\build\C#\Tetris\.static\CS11
+
+[2021-05-11 오전 10:49:18] [PROGRESS] 020
+[2021-05-11 오전 10:49:18] [INFO] Open the solution file.
+[2021-05-11 오전 10:49:19] [INFO] Initialize data.
+[2021-05-11 오전 10:49:19] [PROGRESS] 030
+[2021-05-11 오전 10:49:19] [INFO] Start calculating metrics.
+[2021-05-11 오전 10:49:19] [PROGRESS] 040
+[2021-05-11 오전 10:49:19] [INFO] Start collecting information of the called function(s)
+[2021-05-11 오전 10:49:19] [DEBUG] The execution time of collecting called func: 65ms
+[2021-05-11 오전 10:49:19] [PROGRESS] 055
+[2021-05-11 오전 10:49:19] [DEBUG] The execution time of collecting total metric: 21ms
+[2021-05-11 오전 10:49:19] [DEBUG] Set timeout as 180000 milliseconds
+[2021-05-11 오전 10:49:19] [INFO] [1/4] Tetris.GameEngine
+[2021-05-11 오전 10:49:19] [DEBUG] Checking module name...
+[2021-05-11 오전 10:49:19] [DEBUG] Module name : Tetris.GameEngine
+[2021-05-11 오전 10:49:19] [DEBUG] Calculating for 0 files...
+[2021-05-11 오전 10:49:19] [DEBUG] The execution time of collecting file metric: 0ms
+[2021-05-11 오전 10:49:19] [DEBUG] The execution time: 224ms
+[2021-05-11 오전 10:49:19] [PROGRESS] 068
+[2021-05-11 오전 10:49:19] [INFO] [2/4] Tetris.GameEngine.Test
+[2021-05-11 오전 10:49:19] [DEBUG] Checking module name...
+[2021-05-11 오전 10:49:19] [DEBUG] Module name : Tetris.GameEngine.Test
+[2021-05-11 오전 10:49:19] [DEBUG] Calculating for 0 files...
+[2021-05-11 오전 10:49:19] [DEBUG] The execution time of collecting file metric: 0ms
+[2021-05-11 오전 10:49:20] [DEBUG] The execution time: 108ms
+[2021-05-11 오전 10:49:20] [PROGRESS] 077
+[2021-05-11 오전 10:49:20] [INFO] [3/4] Tetris.ConsoleUI
+[2021-05-11 오전 10:49:20] [DEBUG] Checking module name...
+[2021-05-11 오전 10:49:20] [DEBUG] Module name : Tetris.ConsoleUI
+[2021-05-11 오전 10:49:20] [DEBUG] Calculating for 0 files...
+[2021-05-11 오전 10:49:20] [DEBUG] The execution time of collecting file metric: 0ms
+[2021-05-11 오전 10:49:20] [DEBUG] The execution time: 105ms
+[2021-05-11 오전 10:49:20] [PROGRESS] 086
+[2021-05-11 오전 10:49:20] [INFO] [4/4] Tetris.DesktopUI
+[2021-05-11 오전 10:49:20] [DEBUG] Checking module name...
+[2021-05-11 오전 10:49:20] [DEBUG] Module name : Tetris.DesktopUI
+[2021-05-11 오전 10:49:20] [DEBUG] Calculating for 0 files...
+[2021-05-11 오전 10:49:20] [DEBUG] The execution time of collecting file metric: 0ms
+[2021-05-11 오전 10:49:20] [DEBUG] The execution time: 108ms
+[2021-05-11 오전 10:49:20] [PROGRESS] 095
+[2021-05-11 오전 10:49:20] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Tetris.GameEngine.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: The tools version "Current" is unrecognized. Available tools versions are "2.0", "3.5", "4.0".  C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Tetris.GameEngine.csproj
+[2021-05-11 오전 10:49:20] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Tetris.GameEngine.Test.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: The tools version "Current" is unrecognized. Available tools versions are "2.0", "3.5", "4.0".  C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Tetris.GameEngine.Test.csproj
+[2021-05-11 오전 10:49:20] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Tetris.ConsoleUI.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: The tools version "Current" is unrecognized. Available tools versions are "2.0", "3.5", "4.0".  C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Tetris.ConsoleUI.csproj
+[2021-05-11 오전 10:49:20] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Tetris.DesktopUI.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: The tools version "Current" is unrecognized. Available tools versions are "2.0", "3.5", "4.0".  C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Tetris.DesktopUI.csproj
+[2021-05-11 오전 10:49:20] [PROGRESS] 100
+[2021-05-11 오전 10:49:20] [INFO] Execution Time: 00:00:01

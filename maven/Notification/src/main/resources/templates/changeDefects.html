@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>STATIC Notification Mail</title>
+</head>
+<body>
+<div style="background-color: #f0f0f0; width: 100%">
+  <h1>
+    <span style="padding-left: 10px; padding-right: 10px;  color: #808080;">STATIC Notification</span>
+  </h1>
+  <p>
+      <span style="padding-left: 10px;  padding-right: 10px; color: #808080;">
+        <strong>
+          <a target="_blank " style="color: #3366ff;" th:href="@{${overviewPage}}"
+             th:text="${projectKeyAndName}">Not found prj Key!!</a>
+        </strong>
+      </span>
+  </p>
+
+  <div th:each="defectInfo: ${defectInfos}">
+    <table style="margin-left: 15px; width: 96%; border-collapse: collapse; background-color: #ffffff; height: 146px;"
+           border="0">
+      <tbody>
+      <tr style="border-style: none; border-bottom: 1px solid #808080">
+        <td style="padding-left: 10px; width: 100%; height: 50px;">
+          <p>
+                        <span style="color: #808080; font-size: 13pt;" th:text="'['+${defectInfo.getRule()}+']'">
+                                        Rule
+
+                        </span>
+            <a target="_blank " style="color: #3366ff;" th:href="@{${defectPage}+${defectInfo.getId()}}"
+               th:text="${defectInfo.getMessage()}">
+              The parameter object is not used within in function
+            </a>
+          </p>
+        </td>
+      </tr>
+      <tr style="height: 96px;">
+        <td style="padding-left: 10px; padding-bottom: 10px; width: 100%; height: 96px;">
+          <p>
+            <span th:if="${defectInfo.getPath()} != null" style="color: #808080;">
+                        <span style="color: #808080;" th:text="|${defectInfo.getPath()} |">
+                                        path
+                        </span>
+            </span>
+          </p>
+          <p>
+                        <span style="color: #808080;"
+                              th:text="${defectInfo.getFunctionSignature()} ? ${defectInfo.getFunctionSignature()}:''">
+                        </span>
+          </p>
+          <p>
+                        <span th:if="${assignTo}" style="color: #808080;">
+                          <span style="text-decoration: line-through; background-color: #ffcc99;"
+                                th:text="${defectInfo.getAssignee()!=''}?${defectInfo.getAssignee()}:'Unassigned'"></span> ->
+                          <span style="background-color: #ccffcc;">
+                            <strong th:text="${assignTo}"></strong>
+                          </span>
+                        </span>
+          </p>
+          <span th:if="${statusTo}" style="color: #808080;">
+                          <span style="text-decoration: line-through; background-color: #ffcc99;"
+                                th:text="${defectInfo.getStatus()}">
+                          </span> -&gt;
+                        <span style="background-color: #ccffcc;">
+                        <strong th:text="${statusTo}"></strong>
+                        </span>
+                    </span>
+          <p>
+                    <span th:if="${updateComment} != null" style="color: #808080;">
+                        <span>
+                        </span> update commented :
+                        <span style="background-color: #ccffcc;">
+
+                        <strong th:text="${updateComment}"></strong>
+                        </span>
+                    </span>
+          </p>
+        </td>
+      </tr>
+      </tbody>
+    </table>
+    <div>&nbsp;</div>
+  </div>
+
+</div>
+</body>
+</html>

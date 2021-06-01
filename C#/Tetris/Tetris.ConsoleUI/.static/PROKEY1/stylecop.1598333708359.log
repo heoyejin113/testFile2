@@ -1,0 +1,40 @@
+[2020-08-25 오후 2:35:09] [INFO] Project file: C:\Users\ysgo\Desktop\Selenium\STATIC_Automation\src\csharp\Compatibility\English\Tetris\Tetris.ConsoleUI\Tetris.ConsoleUI.csproj
+[2020-08-25 오후 2:35:09] [INFO] Output path : C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\1598333708014.stylecop.json
+[2020-08-25 오후 2:35:09] [PROGRESS] 20
+[2020-08-25 오후 2:35:11] [INFO] Loaded Tetris.ConsoleUI.csproj in 2741ms
+[2020-08-25 오후 2:35:11] [PROGRESS] 40
+[2020-08-25 오후 2:35:11] [INFO] Start Analysis
+[2020-08-25 오후 2:35:13] [INFO] Finish Analysis
+[2020-08-25 오후 2:35:13] [PROGRESS] 75
+[2020-08-25 오후 2:35:13] [INFO] SA1001: 4 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1005: 9 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1008: 2 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1009: 4 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1012: 4 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1013: 4 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1025: 2 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1028: 5 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1101: 3 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1106: 1 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1124: 2 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1200: 14 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1204: 2 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1208: 1 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1210: 2 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1214: 1 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1309: 5 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1311: 1 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1400: 4 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1413: 1 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1500: 1 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1503: 4 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1508: 1 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1513: 6 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1600: 7 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1629: 4 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1633: 4 instances
+[2020-08-25 오후 2:35:13] [INFO] SA1649: 1 instances
+[2020-08-25 오후 2:35:13] [INFO] Found 99 diagnostics in 2049ms
+[2020-08-25 오후 2:35:13] [INFO] Write diagnostics to output file
+[2020-08-25 오후 2:35:13] [PROGRESS] 100
+[2020-08-25 오후 2:35:13] [INFO] Execution Time: 00:00:04

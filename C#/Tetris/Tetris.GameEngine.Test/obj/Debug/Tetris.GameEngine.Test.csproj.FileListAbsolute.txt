@@ -1,0 +1,14 @@
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.Test.dll
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.Test.pdb
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine.Test\bin\Debug\CoverCSharpLibrary.dll
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.dll
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.pdb
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine.Test\bin\Debug\CoverCSharpLibrary.pdb
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine.Test\bin\Debug\CoverCSharpLibrary.xml
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine.Test\bin\Debug\ko\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine.Test\obj\Debug\Tetris.GameEngine.Test.csprojResolveAssemblyReference.cache
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine.Test\obj\Debug\Tetris.GameEngine.Test.dll
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine.Test\obj\Debug\Tetris.GameEngine.Test.pdb
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine.Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

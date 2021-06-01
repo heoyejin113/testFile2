@@ -1,0 +1,84 @@
+{
+    "REANALYZE": false,
+    "WORKING_DIR": "C:\\Users\\mac1\\Downloads\\git\\make\\.staticdata",
+    "COMPILER_INSTALLATION_PATH": [
+        "C:\\MinGW"
+    ],
+    "PRE_BUILD_COMMAND": "make clean",
+    "COMMAND": [
+        "make"
+    ],
+    "STATIC_SERVER_ADDRESS": "211.116.223.195",
+    "PROJECT_KEY": "BBM",
+    "TOOLCHAIN_FILENAME": "parser.sconf",
+    "PARSING": {
+        "C": {
+            "include": [],
+            "conf": [
+                "cs_encoding"
+            ],
+            "removes": []
+        },
+        "CPP": {
+            "include": [],
+            "conf": [],
+            "removes": []
+        }
+    },
+    "USER_DEFINED_EXTENSIONS": {
+        "header": [
+            ".h",
+            ".H",
+            ".hpp",
+            ".HPP",
+            ".tcc",
+            ".inl",
+            ".INL"
+        ],
+        "source": [
+            ".c",
+            ".C",
+            ".c++",
+            ".C++",
+            ".cpp",
+            ".CPP",
+            ".cxx",
+            ".CXX",
+            ".cc",
+            ".CC",
+            ".cp",
+            ".CP"
+        ],
+        "object": [
+            ".o",
+            ".O",
+            ".lo",
+            ".obj",
+            ".OBJ"
+        ]
+    },
+    "MULTI_PROCESSOR": false,
+    "EXCLUSIONS": [],
+    "EXTRA_OPTIONS": {
+        "ASSIGN_TO_COMMITTER": {
+            "enable": false,
+            "path_replace_map": [
+                {
+                    "from": "",
+                    "to": ""
+                }
+            ]
+        },
+        "TOOLCHAIN_COMPILER_PREFIX": "",
+        "MODULE_WHITELIST_FOR_ANALYZE": [],
+        "USER_DEFINED_ENVIRONMENTS": {
+            "CSBUILD_ENVIRONMENT_EXAMPLE": "EXAMPLE"
+        },
+        "LANGUAGE_EXTENSION_PAIR": {
+            "C": [],
+            "CPP": []
+        },
+        "SPECIFIED_ANALYSIS_AGENT_VERSION": "",
+        "split_project_mode": false
+    }
+}

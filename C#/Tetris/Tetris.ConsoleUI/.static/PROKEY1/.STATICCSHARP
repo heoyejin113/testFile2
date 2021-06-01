@@ -1,0 +1,35 @@
+{
+  "modules": [
+    {
+      "name": "Tetris.ConsoleUI",
+      "output": "C:\\Users\\ysgo\\Desktop\\STATIC-C#\\Tetris\\Tetris.ConsoleUI\\.static\\PROKEY1\\Compile\\Tetris.ConsoleUI\\net45\\Tetris.ConsoleUI.exe",
+      "path": "C:\\Users\\ysgo\\Desktop\\Selenium\\STATIC_Automation\\src\\csharp\\Compatibility\\English\\Tetris\\Tetris.ConsoleUI",
+      "sources": [
+        "C:\\Users\\ysgo\\Desktop\\Selenium\\STATIC_Automation\\src\\csharp\\Compatibility\\English\\Tetris\\Tetris.ConsoleUI\\ConsoleDrawing.cs",
+        "C:\\Users\\ysgo\\Desktop\\Selenium\\STATIC_Automation\\src\\csharp\\Compatibility\\English\\Tetris\\Tetris.ConsoleUI\\Interfaces\\IDrawing.cs",
+        "C:\\Users\\ysgo\\Desktop\\Selenium\\STATIC_Automation\\src\\csharp\\Compatibility\\English\\Tetris\\Tetris.ConsoleUI\\Program.cs",
+        "C:\\Users\\ysgo\\Desktop\\Selenium\\STATIC_Automation\\src\\csharp\\Compatibility\\English\\Tetris\\Tetris.ConsoleUI\\Properties\\AssemblyInfo.cs"
+      ],
+      "success": true,
+      "toolVersion": "15.0"
+    }
+  ],
+  "visualStudios": [
+    {
+      "path": "C:\\Program Files (x86)\\Microsoft Visual Studio 10.0",
+      "version": "10.0"
+    },
+    {
+      "path": "C:\\Program Files (x86)\\Microsoft Visual Studio 14.0",
+      "version": "14.0"
+    },
+    {
+      "path": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Professional",
+      "version": "15.9"
+    },
+    {
+      "path": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Professional",
+      "version": "16.4"
+    }
+  ]
+}

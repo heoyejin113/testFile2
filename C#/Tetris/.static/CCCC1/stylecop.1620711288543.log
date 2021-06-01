@@ -1,0 +1,68 @@
+[2021-05-11 오후 2:34:49] [DEBUG] 
+[2021-05-11 오후 2:34:49] [INFO] Solution file: Tetris.sln
+[2021-05-11 오후 2:34:49] [INFO] Output path  : C:\Users\mac1\Downloads\build\C#\Tetris\.static\CCCC1\1620711288230.stylecop.json
+[2021-05-11 오후 2:34:49] [PROGRESS] 20
+[2021-05-11 오후 2:34:51] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Tetris.GameEngine.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets: (1177, 5): .NETFramework,Version=v4.5의 참조 어셈블리를 찾을 수 없습니다. 이 문제를 해결하려면 이 프레임워크 버전용 개발자 팩(SDK/타기팅 팩)을 설치하거나, 애플리케이션 대상을 변경합니다. https://aka.ms/msbuild/developerpacks에서 .NET Framework 개발자 팩을 다운로드할 수 있습니다.
+[2021-05-11 오후 2:34:51] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Tetris.GameEngine.Test.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets: (1177, 5): .NETFramework,Version=v4.5의 참조 어셈블리를 찾을 수 없습니다. 이 문제를 해결하려면 이 프레임워크 버전용 개발자 팩(SDK/타기팅 팩)을 설치하거나, 애플리케이션 대상을 변경합니다. https://aka.ms/msbuild/developerpacks에서 .NET Framework 개발자 팩을 다운로드할 수 있습니다.
+[2021-05-11 오후 2:34:51] [DEBUG] WORK_DIAG_Warning: 일치하는 메타데이터 참조가 없는 프로젝트 참조를 찾음: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Tetris.GameEngine.csproj
+[2021-05-11 오후 2:34:51] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Tetris.ConsoleUI.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets: (1177, 5): .NETFramework,Version=v4.5의 참조 어셈블리를 찾을 수 없습니다. 이 문제를 해결하려면 이 프레임워크 버전용 개발자 팩(SDK/타기팅 팩)을 설치하거나, 애플리케이션 대상을 변경합니다. https://aka.ms/msbuild/developerpacks에서 .NET Framework 개발자 팩을 다운로드할 수 있습니다.
+[2021-05-11 오후 2:34:51] [DEBUG] WORK_DIAG_Warning: 일치하는 메타데이터 참조가 없는 프로젝트 참조를 찾음: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Tetris.GameEngine.csproj
+[2021-05-11 오후 2:34:51] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Tetris.DesktopUI.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets: (1177, 5): .NETFramework,Version=v4.5의 참조 어셈블리를 찾을 수 없습니다. 이 문제를 해결하려면 이 프레임워크 버전용 개발자 팩(SDK/타기팅 팩)을 설치하거나, 애플리케이션 대상을 변경합니다. https://aka.ms/msbuild/developerpacks에서 .NET Framework 개발자 팩을 다운로드할 수 있습니다.
+[2021-05-11 오후 2:34:51] [INFO] Loaded Tetris.sln in 2507ms
+[2021-05-11 오후 2:34:51] [PROGRESS] 40
+[2021-05-11 오후 2:34:51] [INFO] Start Analysis
+[2021-05-11 오후 2:34:51] [DEBUG] Set Configuration: Release
+[2021-05-11 오후 2:34:51] [DEBUG] Set Configuration: Release
+[2021-05-11 오후 2:34:51] [DEBUG] Set Platform: AnyCpu
+[2021-05-11 오후 2:34:51] [DEBUG] Set Platform: AnyCpu
+[2021-05-11 오후 2:34:51] [DEBUG] Set Configuration: Release
+[2021-05-11 오후 2:34:51] [DEBUG] Set Platform: AnyCpu
+[2021-05-11 오후 2:34:51] [DEBUG] Set Platform: AnyCpu
+[2021-05-11 오후 2:34:52] [INFO] Finish Analysis
+[2021-05-11 오후 2:34:52] [PROGRESS] 75
+[2021-05-11 오후 2:34:52] [INFO] SA1000: 1 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1001: 4 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1003: 1 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1005: 25 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1008: 17 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1009: 28 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1012: 4 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1013: 4 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1024: 3 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1025: 2 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1028: 49 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1101: 78 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1106: 2 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1107: 1 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1119: 1 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1124: 28 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1200: 51 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1201: 7 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1202: 1 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1204: 2 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1208: 1 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1210: 5 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1214: 1 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1309: 21 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1311: 1 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1400: 6 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1413: 2 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1500: 8 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1503: 4 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1508: 1 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1513: 29 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1515: 1 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1516: 5 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1518: 1 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1600: 125 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1601: 1 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1602: 4 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1611: 1 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1629: 14 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1633: 19 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1642: 1 instances
+[2021-05-11 오후 2:34:52] [INFO] SA1649: 1 instances
+[2021-05-11 오후 2:34:52] [INFO] Found 561 diagnostics in 1729ms
+[2021-05-11 오후 2:34:52] [INFO] Write diagnostics to output file
+[2021-05-11 오후 2:34:52] [PROGRESS] 100
+[2021-05-11 오후 2:34:52] [INFO] Execution Time: 00:00:04

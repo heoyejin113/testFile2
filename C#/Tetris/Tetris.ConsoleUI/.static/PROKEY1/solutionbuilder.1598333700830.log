@@ -1,0 +1,15 @@
+[2020-08-25 오후 2:35:00] [PROGRESS] 010
+[2020-08-25 오후 2:35:00] [INFO] Open the project file(s).
+[2020-08-25 오후 2:35:00] [INFO] Collecting the data.
+[2020-08-25 오후 2:35:00] [PROGRESS] 040
+[2020-08-25 오후 2:35:03] [INFO] Start Compile.
+
+[2020-08-25 오후 2:35:03] [INFO] Project: Tetris.ConsoleUI
+[2020-08-25 오후 2:35:04] [DEBUG] Set Configuration: Release
+[2020-08-25 오후 2:35:04] [DEBUG] Set Platform: AnyCpu
+[2020-08-25 오후 2:35:06] [INFO] Compilation Finished
+[2020-08-25 오후 2:35:06] [PROGRESS] 090
+[2020-08-25 오후 2:35:06] [PROGRESS] 090
+[2020-08-25 오후 2:35:06] [INFO] Create .STATICCSHARP file.
+[2020-08-25 오후 2:35:06] [PROGRESS] 100
+[2020-08-25 오후 2:35:06] [INFO] Execution TIme: 00:00:05

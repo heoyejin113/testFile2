@@ -1,0 +1,41 @@
+{
+    "2": {
+        "execve": [
+            "C:\\MinGW\\bin\\gcc.exe",
+            [
+                "gcc",
+                "-g",
+                "-c",
+                "-o",
+                "C:\\Users\\mac1\\Downloads\\gitTest\\make1\\example.o",
+                "C:\\Users\\mac1\\Downloads\\gitTest\\make1\\example.c"
+            ],
+            "C:\\Users\\mac1\\Downloads\\gitTest\\make1"
+        ],
+        "open": [
+            "C:\\MinGW\\include\\_mingw.h",
+            "C:\\MinGW\\include\\msvcrtver.h",
+            "C:\\MinGW\\include\\sdkddkver.h",
+            "C:\\MinGW\\include\\stdio.h",
+            "C:\\MinGW\\include\\sys\\types.h",
+            "C:\\MinGW\\include\\w32api.h",
+            "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\stdarg.h",
+            "C:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\stddef.h",
+            "C:\\Users\\mac1\\Downloads\\gitTest\\make1\\example.c"
+        ]
+    },
+    "5": {
+        "execve": [
+            "C:\\MinGW\\bin\\gcc.exe",
+            [
+                "gcc",
+                "-g",
+                "-o",
+                "example",
+                "C:\\Users\\mac1\\Downloads\\gitTest\\make1\\example.o"
+            ],
+            "C:\\Users\\mac1\\Downloads\\gitTest\\make1"
+        ],
+        "open": []
+    }
+}

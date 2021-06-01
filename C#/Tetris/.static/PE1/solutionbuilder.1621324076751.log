@@ -1,0 +1,68 @@
+[2021-05-18 오후 4:47:56] [INFO] SetEnvVariable - MSBUILD_EXE_PATH :C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\MSBuild.exe
+[2021-05-18 오후 4:47:56] [PROGRESS] 010
+[2021-05-18 오후 4:47:56] [PROGRESS] 020
+[2021-05-18 오후 4:47:56] [INFO] Open the solution file.
+[2021-05-18 오후 4:47:59] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Tetris.GameEngine.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets: (1177, 5): The reference assemblies for .NETFramework,Version=v4.5 were not found. To resolve this, install the Developer Pack (SDK/Targeting Pack) for this framework version or retarget your application. You can download .NET Framework Developer Packs at https://aka.ms/msbuild/developerpacks
+[2021-05-18 오후 4:47:59] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Tetris.GameEngine.Test.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets: (1177, 5): The reference assemblies for .NETFramework,Version=v4.5 were not found. To resolve this, install the Developer Pack (SDK/Targeting Pack) for this framework version or retarget your application. You can download .NET Framework Developer Packs at https://aka.ms/msbuild/developerpacks
+[2021-05-18 오후 4:47:59] [DEBUG] WORK_DIAG_Warning: 일치하는 메타데이터 참조가 없는 프로젝트 참조를 찾음: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Tetris.GameEngine.csproj
+[2021-05-18 오후 4:47:59] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Tetris.ConsoleUI.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets: (1177, 5): The reference assemblies for .NETFramework,Version=v4.5 were not found. To resolve this, install the Developer Pack (SDK/Targeting Pack) for this framework version or retarget your application. You can download .NET Framework Developer Packs at https://aka.ms/msbuild/developerpacks
+[2021-05-18 오후 4:47:59] [DEBUG] WORK_DIAG_Warning: 일치하는 메타데이터 참조가 없는 프로젝트 참조를 찾음: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Tetris.GameEngine.csproj
+[2021-05-18 오후 4:47:59] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Tetris.DesktopUI.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets: (1177, 5): The reference assemblies for .NETFramework,Version=v4.5 were not found. To resolve this, install the Developer Pack (SDK/Targeting Pack) for this framework version or retarget your application. You can download .NET Framework Developer Packs at https://aka.ms/msbuild/developerpacks
+[2021-05-18 오후 4:47:59] [PROGRESS] 030
+[2021-05-18 오후 4:47:59] [INFO] Open the project file(s).
+[2021-05-18 오후 4:47:59] [INFO] Collecting the data.
+[2021-05-18 오후 4:47:59] [PROGRESS] 040
+[2021-05-18 오후 4:47:59] [INFO] Start Compile.
+
+[2021-05-18 오후 4:47:59] [PROGRESS] 065
+[2021-05-18 오후 4:47:59] [INFO] Project: Tetris.GameEngine
+[2021-05-18 오후 4:48:00] [DEBUG] Set Configuration: Debug
+[2021-05-18 오후 4:48:00] [DEBUG] Set Platform: AnyCpu
+[2021-05-18 오후 4:48:02] [PROGRESS] 077
+[2021-05-18 오후 4:48:02] [INFO] Project: Tetris.ConsoleUI
+[2021-05-18 오후 4:48:02] [DEBUG] Set Configuration: Debug
+[2021-05-18 오후 4:48:02] [DEBUG] Set Platform: AnyCpu
+[2021-05-18 오후 4:48:02] [INFO] Project: Tetris.DesktopUI
+[2021-05-18 오후 4:48:02] [DEBUG] Set Configuration: Debug
+[2021-05-18 오후 4:48:02] [DEBUG] Set Platform: AnyCpu
+[2021-05-18 오후 4:48:02] [INFO] Project: Tetris.GameEngine.Test
+[2021-05-18 오후 4:48:02] [DEBUG] Set Configuration: Debug
+[2021-05-18 오후 4:48:02] [DEBUG] Set Platform: AnyCpu
+[2021-05-18 오후 4:48:02] [WARNING] Compilation Finished. Check the Compile.log
+[2021-05-18 오후 4:48:02] [PROGRESS] 090
+[2021-05-18 오후 4:48:02] [PROGRESS] 090
+[2021-05-18 오후 4:48:02] [INFO] Build STATUS is false
+[2021-05-18 오후 4:48:02] [INFO] assemblyName / OutPutType - Tetris.GameEngine / Library
+[2021-05-18 오후 4:48:02] [INFO] extension - .dll
+[2021-05-18 오후 4:48:02] [INFO] Project option - Tetris.GameEngine, |
+[2021-05-18 오후 4:48:02] [INFO] OutputPath - C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\bin\Debug\Tetris.GameEngine.dll
+[2021-05-18 오후 4:48:02] [INFO] Original Output Path: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\bin\Debug\Tetris.GameEngine.dll
+[2021-05-18 오후 4:48:02] [INFO] C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\bin\Debug\Tetris.GameEngine.dll is exist
+[2021-05-18 오후 4:48:02] [INFO] Substitute output path to original path. (project: Tetris.GameEngine)
+[2021-05-18 오후 4:48:02] [INFO] Build STATUS is false
+[2021-05-18 오후 4:48:02] [INFO] assemblyName / OutPutType - Tetris.ConsoleUI / Exe
+[2021-05-18 오후 4:48:02] [INFO] extension - .exe
+[2021-05-18 오후 4:48:02] [INFO] Project option - Tetris.ConsoleUI, |
+[2021-05-18 오후 4:48:02] [INFO] OutputPath - C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\bin\Debug\Tetris.ConsoleUI.exe
+[2021-05-18 오후 4:48:02] [INFO] Original Output Path: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\bin\Debug\Tetris.ConsoleUI.exe
+[2021-05-18 오후 4:48:02] [INFO] C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\bin\Debug\Tetris.ConsoleUI.exe is exist
+[2021-05-18 오후 4:48:02] [INFO] Substitute output path to original path. (project: Tetris.ConsoleUI)
+[2021-05-18 오후 4:48:02] [INFO] Build STATUS is false
+[2021-05-18 오후 4:48:02] [INFO] assemblyName / OutPutType - Tetris.DesktopUI / WinExe
+[2021-05-18 오후 4:48:02] [INFO] extension - .exe
+[2021-05-18 오후 4:48:02] [INFO] Project option - Tetris.DesktopUI, |
+[2021-05-18 오후 4:48:02] [INFO] OutputPath - C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\bin\Debug\Tetris.DesktopUI.exe
+[2021-05-18 오후 4:48:02] [INFO] Original Output Path: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\bin\Debug\Tetris.DesktopUI.exe
+[2021-05-18 오후 4:48:02] [INFO] C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\bin\Debug\Tetris.DesktopUI.exe is exist
+[2021-05-18 오후 4:48:02] [INFO] Substitute output path to original path. (project: Tetris.DesktopUI)
+[2021-05-18 오후 4:48:02] [INFO] Build STATUS is false
+[2021-05-18 오후 4:48:02] [INFO] assemblyName / OutPutType - Tetris.GameEngine.Test / Library
+[2021-05-18 오후 4:48:02] [INFO] extension - .dll
+[2021-05-18 오후 4:48:02] [INFO] Project option - Tetris.GameEngine.Test, |
+[2021-05-18 오후 4:48:02] [INFO] OutputPath - C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.Test.dll
+[2021-05-18 오후 4:48:02] [INFO] Original Output Path: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.Test.dll
+[2021-05-18 오후 4:48:02] [INFO] C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.Test.dll is exist
+[2021-05-18 오후 4:48:02] [INFO] Substitute output path to original path. (project: Tetris.GameEngine.Test)
+[2021-05-18 오후 4:48:02] [INFO] Create .STATICCSHARP file.
+[2021-05-18 오후 4:48:02] [PROGRESS] 100
+[2021-05-18 오후 4:48:02] [INFO] Execution TIme: 00:00:06

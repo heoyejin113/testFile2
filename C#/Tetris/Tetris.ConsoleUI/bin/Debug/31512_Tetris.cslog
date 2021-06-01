@@ -1,0 +1,24 @@
+[COVER] OutputOptions: TCP
+[COVER] Port: 9093
+[COVER] Connection Interval: 3000
+[COVER] Dump Directory: 
+[COVER] Dump Interval: 5000
+[COVER] Log Option: FILE
+[COVER] Log Directory: 
+[COVER] makes new connection
+[COVER] System.Net.Sockets.SocketException (0x80004005): 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:9093
+   위치: System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   위치: System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   위치: System.Net.Sockets.TcpClient.Connect(IPEndPoint remoteEP)
+   위치: System.Net.Sockets.TcpClient.Connect(IPAddress address, Int32 port)
+   위치: QualityScroll.Cover.data.TcpConnection..ctor(Int32 port, RuntimeData data)
+   위치: QualityScroll.Cover.data.TcpOutput.Connect(RuntimeData data, Object sender, ElapsedEventArgs e)
+[COVER] makes new connection
+[COVER] System.Net.Sockets.SocketException (0x80004005): 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:9093
+   위치: System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   위치: System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   위치: System.Net.Sockets.TcpClient.Connect(IPEndPoint remoteEP)
+   위치: System.Net.Sockets.TcpClient.Connect(IPAddress address, Int32 port)
+   위치: QualityScroll.Cover.data.TcpConnection..ctor(Int32 port, RuntimeData data)
+   위치: QualityScroll.Cover.data.TcpOutput.Connect(RuntimeData data, Object sender, ElapsedEventArgs e)
+[COVER] makes new connection

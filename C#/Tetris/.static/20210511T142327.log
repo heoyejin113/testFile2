@@ -1,0 +1,21 @@
+[INFO ] [main] Importing project.
+[INFO ] [main] Importing ruleSet.
+[INFO ] [main] Importing analysis exclusion.
+[INFO ] [main] Creating new revision.
+[INFO ] [main] ----------------------SolutionBuilder----------------------
+[INFO ] [main] Execute [cmd,/c,chcp,65001,&,cmd,/c,",C:\staticToolbox\apps\STATIC Client for C# v1.2.4\SolutionBuilder\SolutionBuilder.exe,-s,Calculator.sln,-o,C:\Users\mac1\Downloads\build\C#\Tetris\.static\CC11,-c,C:\Users\mac1\Downloads\build\C#\Tetris\.static\CC11\sb_option.json,"]
+[INFO ] [SolutionBuilder] Active code page: 65001
+[INFO ] [SolutionBuilder] [INFO] *******************************
+[INFO ] [SolutionBuilder] [INFO] SolutionBuilder 1.2.0.1
+[INFO ] [SolutionBuilder] [INFO] *******************************
+[INFO ] [SolutionBuilder] [INFO] Parsing the arguments.
+[INFO ] [SolutionBuilder] [ERROR] Solution path is not exist.
+[INFO ] [SolutionBuilder] [ERROR] Path: C:\Users\mac1\Downloads\build\C#\Tetris\Calculator.sln
+[INFO ] [SolutionBuilder] System.IO.FileNotFoundException: 지정한 파일을 찾을 수 없습니다.
+[INFO ] [SolutionBuilder]    위치: SolutionBuilder_net47_.OptionParser.SetSolutionPath(String[] args) 파일 E:\SolutionBuilder\SolutionBuilder(net47)\OptionParser.cs:줄 132
+[INFO ] [SolutionBuilder]    위치: SolutionBuilder_net47_.OptionParser..ctor(String[] args) 파일 E:\SolutionBuilder\SolutionBuilder(net47)\OptionParser.cs:줄 37
+[INFO ] [SolutionBuilder]    위치: SolutionBuilder_net47_.Program.<MainAsync>d__5.MoveNext() 파일 E:\SolutionBuilder\SolutionBuilder(net47)\Program.cs:줄 70
+[INFO ] [SolutionBuilder] [INFO] Execution TIme: 00:00:00
+[WARN ] [main] The process returned non-zero exit value. Exit value : 3
+[INFO ] [main] Updating revision.: ERROR
+[ERROR] [main] com.codescroll.acp.utils.process.ProcessExecutionException: The process returned non-zero exit value. Exit value : 3

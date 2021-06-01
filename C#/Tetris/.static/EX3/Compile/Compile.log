@@ -1,0 +1,41 @@
+
+Project: Tetris.GameEngine
+warning CS8021: RuntimeMetadataVersion 값을 찾을 수 없습니다. System.Object가 포함된 어셈블리를 찾을 수 없고 옵션을 통해 지정된 RuntimeMetadataVersion 값이 아닙니다.
+error CS5001: 프로그램에는 진입점에 적합한 정적 'Main' 메서드가 포함되어 있지 않습니다.
+Error: 1
+Warning: 1
+Compile Failed.
+
+
+
+Project: Tetris.ConsoleUI
+warning CS8021: RuntimeMetadataVersion 값을 찾을 수 없습니다. System.Object가 포함된 어셈블리를 찾을 수 없고 옵션을 통해 지정된 RuntimeMetadataVersion 값이 아닙니다.
+error CS5001: 프로그램에는 진입점에 적합한 정적 'Main' 메서드가 포함되어 있지 않습니다.
+Error: 1
+Warning: 1
+Compile Failed.
+
+
+
+Project: Tetris.DesktopUI
+warning CS8021: RuntimeMetadataVersion 값을 찾을 수 없습니다. System.Object가 포함된 어셈블리를 찾을 수 없고 옵션을 통해 지정된 RuntimeMetadataVersion 값이 아닙니다.
+error CS5001: 프로그램에는 진입점에 적합한 정적 'Main' 메서드가 포함되어 있지 않습니다.
+Error: 1
+Warning: 1
+Compile Failed.
+
+
+
+Project: Tetris.GameEngine.Test
+warning CS8021: RuntimeMetadataVersion 값을 찾을 수 없습니다. System.Object가 포함된 어셈블리를 찾을 수 없고 옵션을 통해 지정된 RuntimeMetadataVersion 값이 아닙니다.
+error CS5001: 프로그램에는 진입점에 적합한 정적 'Main' 메서드가 포함되어 있지 않습니다.
+Error: 1
+Warning: 1
+Compile Failed.
+
+
+Summary
+Compile Success: 0 Project(s).
+Compile Failed: 4 Project(s).
+Error  : 4
+Warning: 4

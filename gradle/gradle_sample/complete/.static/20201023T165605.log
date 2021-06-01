@@ -1,0 +1,30 @@
+[INFO ] [main] Importing project.
+[INFO ] [main] Importing ruleSet.
+[INFO ] [main] Importing analysis exclusion.
+[INFO ] [main] Creating new revision.
+[INFO ] [main] Start Analysis.
+[INFO ] [main] Updating revision.: PENDING
+[INFO ] [main] Updating revision.: ANALYZING
+[INFO ] [main] JavaClasspath initialization
+[INFO ] [main] JavaClasspath initialization (done) | time=21ms
+[INFO ] [main] JavaTestClasspath initialization
+[INFO ] [main] JavaTestClasspath initialization (done) | time=6ms
+[INFO ] [main] Java Main Files AST scan
+[INFO ] [main] 2 source files to be analyzed
+[INFO ] [Report about progress of Java AST analyzer] 2/2 source files have been analyzed
+[INFO ] [main] Java Main Files AST scan (done) | time=666ms
+[INFO ] [main] Java Test Files AST scan
+[INFO ] [main] 1 source files to be analyzed
+[INFO ] [Report about progress of Java AST analyzer] 1/1 source files have been analyzed
+[INFO ] [main] Java Test Files AST scan (done) | time=155ms
+[INFO ] [main] Collecting File committer
+[WARN ] [main] null
+[INFO ] [main] Updating revision.: FINISHED
+[INFO ] [main] Uploading project source file.
+[INFO ] [main] Creating defect file for upload.
+[INFO ] [main] Uploading defects.
+[INFO ] [main] Creating metric file for upload.
+[INFO ] [main] Uploading metrics.
+[INFO ] [main] Uploading analysis log.
+[INFO ] [main] Finish Analysis.
+[INFO ] [main] Writing hints in C:\Users\ysgo\Desktop\STATIC-JAVA\gradle_sample\complete\.hint

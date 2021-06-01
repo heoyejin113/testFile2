@@ -1,0 +1,66 @@
+[2021-05-10 오후 1:32:13] [INFO] MSBuild\Current\Bin\MSBuild.exe is not exist
+[2021-05-10 오후 1:32:13] [PROGRESS] 010
+[2021-05-10 오후 1:32:14] [PROGRESS] 020
+[2021-05-10 오후 1:32:14] [INFO] Open the solution file.
+[2021-05-10 오후 1:32:15] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Tetris.GameEngine.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: The tools version "Current" is unrecognized. Available tools versions are "2.0", "3.5", "4.0".  C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Tetris.GameEngine.csproj
+[2021-05-10 오후 1:32:15] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Tetris.GameEngine.Test.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: The tools version "Current" is unrecognized. Available tools versions are "2.0", "3.5", "4.0".  C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Tetris.GameEngine.Test.csproj
+[2021-05-10 오후 1:32:15] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Tetris.ConsoleUI.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: The tools version "Current" is unrecognized. Available tools versions are "2.0", "3.5", "4.0".  C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Tetris.ConsoleUI.csproj
+[2021-05-10 오후 1:32:15] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Tetris.DesktopUI.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: The tools version "Current" is unrecognized. Available tools versions are "2.0", "3.5", "4.0".  C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Tetris.DesktopUI.csproj
+[2021-05-10 오후 1:32:15] [PROGRESS] 030
+[2021-05-10 오후 1:32:15] [INFO] Open the project file(s).
+[2021-05-10 오후 1:32:15] [INFO] Collecting the data.
+[2021-05-10 오후 1:32:15] [PROGRESS] 040
+[2021-05-10 오후 1:32:15] [INFO] Start Compile.
+
+[2021-05-10 오후 1:32:15] [PROGRESS] 065
+[2021-05-10 오후 1:32:15] [INFO] Project: Tetris.GameEngine
+[2021-05-10 오후 1:32:15] [DEBUG] Set Configuration: Debug
+[2021-05-10 오후 1:32:15] [DEBUG] Set Platform: AnyCpu
+[2021-05-10 오후 1:32:16] [PROGRESS] 077
+[2021-05-10 오후 1:32:16] [INFO] Project: Tetris.ConsoleUI
+[2021-05-10 오후 1:32:16] [DEBUG] Set Configuration: Debug
+[2021-05-10 오후 1:32:16] [DEBUG] Set Platform: AnyCpu
+[2021-05-10 오후 1:32:16] [INFO] Project: Tetris.DesktopUI
+[2021-05-10 오후 1:32:16] [DEBUG] Set Configuration: Debug
+[2021-05-10 오후 1:32:16] [DEBUG] Set Platform: AnyCpu
+[2021-05-10 오후 1:32:16] [INFO] Project: Tetris.GameEngine.Test
+[2021-05-10 오후 1:32:16] [DEBUG] Set Configuration: Debug
+[2021-05-10 오후 1:32:16] [DEBUG] Set Platform: AnyCpu
+[2021-05-10 오후 1:32:16] [WARNING] Compilation Finished. Check the Compile.log
+[2021-05-10 오후 1:32:16] [PROGRESS] 090
+[2021-05-10 오후 1:32:16] [PROGRESS] 090
+[2021-05-10 오후 1:32:16] [INFO] Build STATUS is false
+[2021-05-10 오후 1:32:16] [INFO] assemblyName / OutPutType - Tetris.GameEngine / Library
+[2021-05-10 오후 1:32:16] [INFO] extension - .dll
+[2021-05-10 오후 1:32:16] [INFO] Project option - Tetris.GameEngine, |
+[2021-05-10 오후 1:32:16] [INFO] OutputPath - C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\bin\Debug\Tetris.GameEngine.dll
+[2021-05-10 오후 1:32:16] [INFO] Original Output Path: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\bin\Debug\Tetris.GameEngine.dll
+[2021-05-10 오후 1:32:16] [INFO] C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\bin\Debug\Tetris.GameEngine.dll is exist
+[2021-05-10 오후 1:32:16] [INFO] BuildProject.Project Create Fail - Use vsList Last Version
+[2021-05-10 오후 1:32:16] [INFO] Build STATUS is false
+[2021-05-10 오후 1:32:16] [INFO] assemblyName / OutPutType - Tetris.ConsoleUI / Exe
+[2021-05-10 오후 1:32:16] [INFO] extension - .exe
+[2021-05-10 오후 1:32:16] [INFO] Project option - Tetris.ConsoleUI, |
+[2021-05-10 오후 1:32:16] [INFO] OutputPath - C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\bin\Debug\Tetris.ConsoleUI.exe
+[2021-05-10 오후 1:32:16] [INFO] Original Output Path: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\bin\Debug\Tetris.ConsoleUI.exe
+[2021-05-10 오후 1:32:16] [INFO] C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\bin\Debug\Tetris.ConsoleUI.exe is exist
+[2021-05-10 오후 1:32:16] [INFO] BuildProject.Project Create Fail - Use vsList Last Version
+[2021-05-10 오후 1:32:16] [INFO] Build STATUS is false
+[2021-05-10 오후 1:32:16] [INFO] assemblyName / OutPutType - Tetris.DesktopUI / WinExe
+[2021-05-10 오후 1:32:16] [INFO] extension - .exe
+[2021-05-10 오후 1:32:16] [INFO] Project option - Tetris.DesktopUI, |
+[2021-05-10 오후 1:32:16] [INFO] OutputPath - C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\bin\Debug\Tetris.DesktopUI.exe
+[2021-05-10 오후 1:32:16] [INFO] Original Output Path: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\bin\Debug\Tetris.DesktopUI.exe
+[2021-05-10 오후 1:32:16] [INFO] C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\bin\Debug\Tetris.DesktopUI.exe is exist
+[2021-05-10 오후 1:32:16] [INFO] BuildProject.Project Create Fail - Use vsList Last Version
+[2021-05-10 오후 1:32:16] [INFO] Build STATUS is false
+[2021-05-10 오후 1:32:16] [INFO] assemblyName / OutPutType - Tetris.GameEngine.Test / Library
+[2021-05-10 오후 1:32:16] [INFO] extension - .dll
+[2021-05-10 오후 1:32:16] [INFO] Project option - Tetris.GameEngine.Test, |
+[2021-05-10 오후 1:32:16] [INFO] OutputPath - C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.Test.dll
+[2021-05-10 오후 1:32:16] [INFO] Original Output Path: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.Test.dll
+[2021-05-10 오후 1:32:16] [INFO] C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.Test.dll is exist
+[2021-05-10 오후 1:32:16] [INFO] BuildProject.Project Create Fail - Use vsList Last Version
+[2021-05-10 오후 1:32:16] [INFO] Create .STATICCSHARP file.
+[2021-05-10 오후 1:32:16] [PROGRESS] 100
+[2021-05-10 오후 1:32:16] [INFO] Execution TIme: 00:00:02

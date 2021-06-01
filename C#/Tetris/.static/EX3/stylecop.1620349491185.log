@@ -1,0 +1,6 @@
+[2021-05-07 오전 10:04:51] [ERROR] System.InvalidOperationException: No instances of MSBuild could be detected.
+Try calling RegisterInstance or RegisterMSBuildPath to manually register one.
+   위치: Microsoft.Build.Locator.MSBuildLocator.RegisterDefaults()
+   위치: StyleCopCmd.Program.<MainAsync>d__1.MoveNext() 파일 E:\StyleCopExecutor\StyleCopCmd\Program.cs:줄 120
+[2021-05-07 오전 10:04:51] [PROGRESS] 100
+[2021-05-07 오전 10:04:51] [INFO] Execution Time: 00:00:00

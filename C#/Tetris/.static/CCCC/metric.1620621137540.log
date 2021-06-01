@@ -1,0 +1,49 @@
+[2021-05-10 오후 1:32:17] [PROGRESS] 010
+[2021-05-10 오후 1:32:17] [INFO] - Solution file: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.sln
+[2021-05-10 오후 1:32:17] [INFO] - Output path  : C:\Users\mac1\Downloads\build\C#\Tetris\.static\CCCC
+
+[2021-05-10 오후 1:32:17] [PROGRESS] 020
+[2021-05-10 오후 1:32:17] [INFO] Open the solution file.
+[2021-05-10 오후 1:32:19] [INFO] Initialize data.
+[2021-05-10 오후 1:32:19] [PROGRESS] 030
+[2021-05-10 오후 1:32:19] [INFO] Start calculating metrics.
+[2021-05-10 오후 1:32:19] [PROGRESS] 040
+[2021-05-10 오후 1:32:19] [INFO] Start collecting information of the called function(s)
+[2021-05-10 오후 1:32:19] [DEBUG] The execution time of collecting called func: 113ms
+[2021-05-10 오후 1:32:19] [PROGRESS] 055
+[2021-05-10 오후 1:32:19] [DEBUG] The execution time of collecting total metric: 22ms
+[2021-05-10 오후 1:32:19] [DEBUG] Set timeout as 180000 milliseconds
+[2021-05-10 오후 1:32:19] [INFO] [1/4] Tetris.GameEngine
+[2021-05-10 오후 1:32:19] [DEBUG] Checking module name...
+[2021-05-10 오후 1:32:19] [DEBUG] Module name : Tetris.GameEngine
+[2021-05-10 오후 1:32:19] [DEBUG] Calculating for 0 files...
+[2021-05-10 오후 1:32:19] [DEBUG] The execution time of collecting file metric: 0ms
+[2021-05-10 오후 1:32:19] [DEBUG] The execution time: 218ms
+[2021-05-10 오후 1:32:19] [PROGRESS] 068
+[2021-05-10 오후 1:32:19] [INFO] [2/4] Tetris.GameEngine.Test
+[2021-05-10 오후 1:32:19] [DEBUG] Checking module name...
+[2021-05-10 오후 1:32:19] [DEBUG] Module name : Tetris.GameEngine.Test
+[2021-05-10 오후 1:32:19] [DEBUG] Calculating for 0 files...
+[2021-05-10 오후 1:32:19] [DEBUG] The execution time of collecting file metric: 0ms
+[2021-05-10 오후 1:32:19] [DEBUG] The execution time: 109ms
+[2021-05-10 오후 1:32:19] [PROGRESS] 077
+[2021-05-10 오후 1:32:19] [INFO] [3/4] Tetris.ConsoleUI
+[2021-05-10 오후 1:32:19] [DEBUG] Checking module name...
+[2021-05-10 오후 1:32:19] [DEBUG] Module name : Tetris.ConsoleUI
+[2021-05-10 오후 1:32:19] [DEBUG] Calculating for 0 files...
+[2021-05-10 오후 1:32:19] [DEBUG] The execution time of collecting file metric: 0ms
+[2021-05-10 오후 1:32:19] [DEBUG] The execution time: 110ms
+[2021-05-10 오후 1:32:19] [PROGRESS] 086
+[2021-05-10 오후 1:32:19] [INFO] [4/4] Tetris.DesktopUI
+[2021-05-10 오후 1:32:19] [DEBUG] Checking module name...
+[2021-05-10 오후 1:32:19] [DEBUG] Module name : Tetris.DesktopUI
+[2021-05-10 오후 1:32:19] [DEBUG] Calculating for 0 files...
+[2021-05-10 오후 1:32:19] [DEBUG] The execution time of collecting file metric: 0ms
+[2021-05-10 오후 1:32:19] [DEBUG] The execution time: 109ms
+[2021-05-10 오후 1:32:19] [PROGRESS] 095
+[2021-05-10 오후 1:32:19] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Tetris.GameEngine.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: The tools version "Current" is unrecognized. Available tools versions are "2.0", "3.5", "4.0".  C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Tetris.GameEngine.csproj
+[2021-05-10 오후 1:32:19] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Tetris.GameEngine.Test.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: The tools version "Current" is unrecognized. Available tools versions are "2.0", "3.5", "4.0".  C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Tetris.GameEngine.Test.csproj
+[2021-05-10 오후 1:32:19] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Tetris.ConsoleUI.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: The tools version "Current" is unrecognized. Available tools versions are "2.0", "3.5", "4.0".  C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Tetris.ConsoleUI.csproj
+[2021-05-10 오후 1:32:19] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Tetris.DesktopUI.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: The tools version "Current" is unrecognized. Available tools versions are "2.0", "3.5", "4.0".  C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Tetris.DesktopUI.csproj
+[2021-05-10 오후 1:32:19] [PROGRESS] 100
+[2021-05-10 오후 1:32:19] [INFO] Execution Time: 00:00:02

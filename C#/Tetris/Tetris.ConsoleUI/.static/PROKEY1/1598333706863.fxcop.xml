@@ -1,0 +1,794 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio\2019\professional\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="16.0">
+ <Localized>
+  <String Key="Category">범주</String>
+  <String Key="Certainty">확신도</String>
+  <String Key="CollapseAll">모두 축소</String>
+  <String Key="CheckId">확인 ID</String>
+  <String Key="Error">오류</String>
+  <String Key="Errors">개 오류</String>
+  <String Key="ExpandAll">모두 확장</String>
+  <String Key="Help">도움말</String>
+  <String Key="Line">줄</String>
+  <String Key="Messages">메시지</String>
+  <String Key="LocationNotStoredInPdb">[Pdb에 위치가 저장되지 않음]</String>
+  <String Key="Project">프로젝트</String>
+  <String Key="Resolution">확인</String>
+  <String Key="Rule">규칙</String>
+  <String Key="RuleFile">규칙 파일</String>
+  <String Key="RuleDescription">규칙 설명</String>
+  <String Key="Source">소스</String>
+  <String Key="Status">상태</String>
+  <String Key="Target">대상</String>
+  <String Key="Warning">경고</String>
+  <String Key="Warnings">경고</String>
+  <String Key="ReportTitle">코드 분석 보고서</String>
+ </Localized>
+ <Exceptions>
+  <Exception Keyword="CA0055" Kind="AssemblyLoad">
+   <Type>Microsoft.FxCop.Common.AssemblyLoadException</Type>
+   <ExceptionMessage>C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\Compile\Tetris.ConsoleUI\net45\Tetris.ConsoleUI.exe을(를) 로드할 수 없습니다. 'Tetris.ConsoleUI' 모듈을 읽는 동안 다음 오류가 발생했습니다. 어셈블리 참조를 확인할 수 없습니다. Tetris.GameEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.</ExceptionMessage>
+   <InnerType>Microsoft.FxCop.Sdk.InvalidMetadataException</InnerType>
+   <InnerExceptionMessage>'Tetris.ConsoleUI' 모듈을 읽는 동안 다음 오류가 발생했습니다. 어셈블리 참조를 확인할 수 없습니다. Tetris.GameEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.</InnerExceptionMessage>
+   <InnerStackTrace>   위치: Microsoft.FxCop.Sdk.Reader.HandleError(ModuleNode mod, String errorMessage)
+   위치: Microsoft.FxCop.Sdk.Reader.GetAssemblyFromReference(AssemblyReference assemblyReference)
+   위치: Microsoft.FxCop.Sdk.AssemblyReference.get_Assembly()
+   위치: Microsoft.FxCop.Sdk.Reader.GetTypeFromRef(Int32 i, Boolean expectStruct)
+   위치: Microsoft.FxCop.Sdk.Reader.DecodeAndGetTypeDefOrRefOrSpec(Int32 codedIndex)
+   위치: Microsoft.FxCop.Sdk.Reader.ParseTypeSignature(MemoryCursor sigReader, Boolean&amp; pinned, Boolean&amp; isTypeArgument)
+   위치: Microsoft.FxCop.Sdk.Reader.ParseTypeSignature(MemoryCursor sigReader)
+   위치: Microsoft.FxCop.Sdk.Reader.GetMethodFromDef(Int32 index, TypeNode declaringType)
+   위치: Microsoft.FxCop.Sdk.Reader.AddMethodsToType(TypeNode type, MethodPtrRow[] methodPtrs, Int32 start, Int32 end)
+   위치: Microsoft.FxCop.Sdk.Reader.GetTypeMembers(TypeNode type, Object handle)
+   위치: Microsoft.FxCop.Sdk.TypeNode.get_Members()
+   위치: Microsoft.FxCop.Sdk.LanguageManager.GetFileName(ModuleNode module)
+   위치: Microsoft.FxCop.Sdk.LanguageManager.GetSourceLanguageFromSymbols(ModuleNode module)
+   위치: Microsoft.FxCop.Sdk.LanguageManager.GetSourceLanguage(ModuleNode module)
+   위치: Microsoft.FxCop.Engines.Introspection.DisplayFormatter.GetNameProvider(ModuleNode module)
+   위치: Microsoft.FxCop.Engines.Introspection.DisplayFormatter.GetDisplayName(Node node)
+   위치: Microsoft.FxCop.Engines.Introspection.LoadVisitor.FindTargetModule(ModuleNode module, TargetModuleDictionary targets)
+   위치: Microsoft.FxCop.Engines.Introspection.BaseVisitor.VisitAssembly(AssemblyNode assembly, TargetFile target)
+   위치: Microsoft.FxCop.Engines.Introspection.LoadVisitor.VisitAssembly(AssemblyNode assembly, TargetFile target)
+   위치: Microsoft.FxCop.Engines.Introspection.LoadVisitor.Load(TargetFile target, Boolean buildTree, Boolean queueItems, AssemblyNode loadedAssembly)
+   위치: Microsoft.FxCop.Engines.Introspection.IntrospectionAnalysisEngine.LoadTargets(TargetFile target)
+   위치: Microsoft.FxCop.Common.EngineManager.LoadTargets(TargetFile target, Boolean resetCounts, String loadEngine)</InnerStackTrace>
+  </Exception>
+  <Exception Keyword="CA0052" Kind="Engine">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>대상을 선택하지 않았습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0058" Kind="Engine">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>참조된 어셈블리 'Tetris.GameEngine, Version=1.0.0.0, Culture=neutral'을(를) 찾을 수 없습니다. 이 어셈블리는 분석에 필요하며 C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\Compile\Tetris.ConsoleUI\net45\Tetris.ConsoleUI.exe에서 참조되었습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SX1309' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SX1309S' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1211' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1210' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA0001' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1217' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1216' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1213' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA0002' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1212' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1214' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1101' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1100' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1107' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1106' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1108' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1103' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1102' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1105' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1104' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1310' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1316' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1312' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1311' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1314' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1313' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1200' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1209' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1206' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1205' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1208' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1207' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1202' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1201' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1204' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1203' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1132' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1011' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1131' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1010' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1134' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1013' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1133' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1012' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1130' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SX1101' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1019' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1139' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1018' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1136' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1015' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1135' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1014' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1017' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1137' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1016' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1022' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1142' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1021' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1024' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1023' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1141' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1020' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1026' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1025' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1028' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1027' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1110' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1112' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1111' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1118' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1117' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1119' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1114' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1113' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1116' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1115' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1121' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1000' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1120' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1123' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1002' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1122' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1001' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1129' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1008' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1128' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1007' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1009' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1125' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1004' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1124' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1003' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1127' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1006' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1005' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1617' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1616' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1619' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1618' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1613' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1612' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1615' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1614' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1611' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1610' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1507' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1627' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1506' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1509' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1629' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1508' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1624' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1503' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1623' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1502' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1626' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1505' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1625' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1504' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1620' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1622' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1501' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1621' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1500' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1609' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1606' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1605' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1608' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1607' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1602' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1601' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1604' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1600' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1651' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1414' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1411' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1410' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1413' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1412' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1309' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1308' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1305' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1304' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1307' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1306' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1300' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1303' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1302' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1639' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1518' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1638' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1517' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1519' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1635' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1514' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1634' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1513' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1637' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1516' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1636' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1515' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1510' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1633' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1512' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1511' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1640' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1408' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1649' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1407' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1404' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1403' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1648' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1406' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1405' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1642' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1400' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1641' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1520' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1402' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1643' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+  <Exception Keyword="CA0062" Kind="Engine" TreatAsWarning="True">
+   <Type>Microsoft.FxCop.Sdk.FxCopException</Type>
+   <ExceptionMessage>규칙 집합 'C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset'에서 참조된 'SA1401' 규칙을 찾을 수 없습니다.</ExceptionMessage>
+  </Exception>
+ </Exceptions>
+</FxCopReport>

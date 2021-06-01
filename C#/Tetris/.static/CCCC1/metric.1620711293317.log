@@ -1,0 +1,51 @@
+[2021-05-11 오후 2:34:53] [PROGRESS] 010
+[2021-05-11 오후 2:34:53] [INFO] - Solution file: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.sln
+[2021-05-11 오후 2:34:53] [INFO] - Output path  : C:\Users\mac1\Downloads\build\C#\Tetris\.static\CCCC1
+
+[2021-05-11 오후 2:34:53] [PROGRESS] 020
+[2021-05-11 오후 2:34:53] [INFO] Open the solution file.
+[2021-05-11 오후 2:34:55] [INFO] Initialize data.
+[2021-05-11 오후 2:34:55] [PROGRESS] 030
+[2021-05-11 오후 2:34:55] [INFO] Start calculating metrics.
+[2021-05-11 오후 2:34:55] [PROGRESS] 040
+[2021-05-11 오후 2:34:55] [INFO] Start collecting information of the called function(s)
+[2021-05-11 오후 2:34:57] [DEBUG] The execution time of collecting called func: 1632ms
+[2021-05-11 오후 2:34:57] [PROGRESS] 055
+[2021-05-11 오후 2:34:57] [DEBUG] The execution time of collecting total metric: 55ms
+[2021-05-11 오후 2:34:57] [DEBUG] Set timeout as 180000 milliseconds
+[2021-05-11 오후 2:34:57] [INFO] [1/4] Tetris.GameEngine
+[2021-05-11 오후 2:34:57] [DEBUG] Checking module name...
+[2021-05-11 오후 2:34:57] [DEBUG] Module name : Tetris.GameEngine
+[2021-05-11 오후 2:34:57] [DEBUG] Calculating for 7 files...
+[2021-05-11 오후 2:34:57] [DEBUG] The execution time of collecting file metric: 9ms
+[2021-05-11 오후 2:34:57] [DEBUG] The execution time: 103ms
+[2021-05-11 오후 2:34:57] [PROGRESS] 068
+[2021-05-11 오후 2:34:57] [INFO] [2/4] Tetris.GameEngine.Test
+[2021-05-11 오후 2:34:57] [DEBUG] Checking module name...
+[2021-05-11 오후 2:34:57] [DEBUG] Module name : Tetris.GameEngine.Test
+[2021-05-11 오후 2:34:57] [DEBUG] Calculating for 5 files...
+[2021-05-11 오후 2:34:57] [DEBUG] The execution time of collecting file metric: 5ms
+[2021-05-11 오후 2:34:57] [DEBUG] The execution time: 106ms
+[2021-05-11 오후 2:34:57] [PROGRESS] 077
+[2021-05-11 오후 2:34:57] [INFO] [3/4] Tetris.ConsoleUI
+[2021-05-11 오후 2:34:57] [DEBUG] Checking module name...
+[2021-05-11 오후 2:34:57] [DEBUG] Module name : Tetris.ConsoleUI
+[2021-05-11 오후 2:34:57] [DEBUG] Calculating for 4 files...
+[2021-05-11 오후 2:34:57] [DEBUG] The execution time of collecting file metric: 2ms
+[2021-05-11 오후 2:34:57] [DEBUG] The execution time: 108ms
+[2021-05-11 오후 2:34:57] [PROGRESS] 086
+[2021-05-11 오후 2:34:57] [INFO] [4/4] Tetris.DesktopUI
+[2021-05-11 오후 2:34:57] [DEBUG] Checking module name...
+[2021-05-11 오후 2:34:57] [DEBUG] Module name : Tetris.DesktopUI
+[2021-05-11 오후 2:34:57] [DEBUG] Calculating for 6 files...
+[2021-05-11 오후 2:34:57] [DEBUG] The execution time of collecting file metric: 1ms
+[2021-05-11 오후 2:34:57] [DEBUG] The execution time: 109ms
+[2021-05-11 오후 2:34:57] [PROGRESS] 095
+[2021-05-11 오후 2:34:58] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Tetris.GameEngine.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets: (1177, 5): The reference assemblies for .NETFramework,Version=v4.5 were not found. To resolve this, install the Developer Pack (SDK/Targeting Pack) for this framework version or retarget your application. You can download .NET Framework Developer Packs at https://aka.ms/msbuild/developerpacks
+[2021-05-11 오후 2:34:58] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Tetris.GameEngine.Test.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets: (1177, 5): The reference assemblies for .NETFramework,Version=v4.5 were not found. To resolve this, install the Developer Pack (SDK/Targeting Pack) for this framework version or retarget your application. You can download .NET Framework Developer Packs at https://aka.ms/msbuild/developerpacks
+[2021-05-11 오후 2:34:58] [DEBUG] WORK_DIAG_Warning: 일치하는 메타데이터 참조가 없는 프로젝트 참조를 찾음: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Tetris.GameEngine.csproj
+[2021-05-11 오후 2:34:58] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Tetris.ConsoleUI.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets: (1177, 5): The reference assemblies for .NETFramework,Version=v4.5 were not found. To resolve this, install the Developer Pack (SDK/Targeting Pack) for this framework version or retarget your application. You can download .NET Framework Developer Packs at https://aka.ms/msbuild/developerpacks
+[2021-05-11 오후 2:34:58] [DEBUG] WORK_DIAG_Warning: 일치하는 메타데이터 참조가 없는 프로젝트 참조를 찾음: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Tetris.GameEngine.csproj
+[2021-05-11 오후 2:34:58] [DEBUG] WORK_DIAG_Failure: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Tetris.DesktopUI.csproj' 파일 처리 시 Msbuild에서 실패했습니다. 메시지: C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets: (1177, 5): The reference assemblies for .NETFramework,Version=v4.5 were not found. To resolve this, install the Developer Pack (SDK/Targeting Pack) for this framework version or retarget your application. You can download .NET Framework Developer Packs at https://aka.ms/msbuild/developerpacks
+[2021-05-11 오후 2:34:58] [PROGRESS] 100
+[2021-05-11 오후 2:34:58] [INFO] Execution Time: 00:00:04

@@ -1,0 +1,24 @@
+[2020-08-25 오후 2:35:13] [PROGRESS] 010
+[2020-08-25 오후 2:35:13] [INFO] - Project files: 1
+[2020-08-25 오후 2:35:13] [INFO] - Output path  : C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1
+
+[2020-08-25 오후 2:35:13] [PROGRESS] 020
+[2020-08-25 오후 2:35:13] [INFO] Open the project file(s).
+[2020-08-25 오후 2:35:16] [INFO] Initialize data.
+[2020-08-25 오후 2:35:16] [PROGRESS] 030
+[2020-08-25 오후 2:35:16] [INFO] Start calculating the metrics.
+[2020-08-25 오후 2:35:16] [PROGRESS] 040
+[2020-08-25 오후 2:35:16] [INFO] Start collecting information of the called function(s)
+[2020-08-25 오후 2:35:18] [DEBUG] The execution time of collecting called func: 1851ms
+[2020-08-25 오후 2:35:18] [PROGRESS] 055
+[2020-08-25 오후 2:35:18] [DEBUG] The execution time of collecting total metric: 39ms
+[2020-08-25 오후 2:35:18] [DEBUG] Set timeout as 180000 milliseconds
+[2020-08-25 오후 2:35:18] [INFO] [1/1] Tetris.ConsoleUI
+[2020-08-25 오후 2:35:18] [DEBUG] Checking module name...
+[2020-08-25 오후 2:35:18] [DEBUG] Module name : Tetris.ConsoleUI
+[2020-08-25 오후 2:35:18] [DEBUG] Calculating for 4 files...
+[2020-08-25 오후 2:35:18] [DEBUG] The execution time of collecting file metric: 7ms
+[2020-08-25 오후 2:35:18] [DEBUG] The execution time: 103ms
+[2020-08-25 오후 2:35:18] [PROGRESS] 095
+[2020-08-25 오후 2:35:18] [PROGRESS] 100
+[2020-08-25 오후 2:35:18] [INFO] Execution Time: 00:00:04

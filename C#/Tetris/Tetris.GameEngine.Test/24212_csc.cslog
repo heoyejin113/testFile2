@@ -1,0 +1,23 @@
+[COVER] Cover 3.2 Library for Cover-Lite RT
+[COVER] makes new connection
+[COVER] System.Net.Sockets.SocketException (0x80004005): 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:9093
+   위치: System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   위치: System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   위치: System.Net.Sockets.TcpClient.Connect(IPEndPoint remoteEP)
+   위치: System.Net.Sockets.TcpClient.Connect(IPAddress address, Int32 port)
+   위치: QualityScroll.Cover.data.TcpConnection..ctor(Int32 port, RuntimeData data) 파일 C:\Users\khj\git\cstm\csharp\QualityScroll.Cover.CSharp\CoverageLibrary\CoverCSharpLibrary\data\TcpConnection.cs:줄 20
+   위치: QualityScroll.Cover.data.TcpOutput.Connect(Object sender, ElapsedEventArgs e) 파일 C:\Users\khj\git\cstm\csharp\QualityScroll.Cover.CSharp\CoverageLibrary\CoverCSharpLibrary\data\TcpOutput.cs:줄 45
+[COVER] makes new connection
+[COVER] System.Net.Sockets.SocketException (0x80004005): 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:9093
+   위치: System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   위치: System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   위치: System.Net.Sockets.TcpClient.Connect(IPEndPoint remoteEP)
+   위치: System.Net.Sockets.TcpClient.Connect(IPAddress address, Int32 port)
+   위치: QualityScroll.Cover.data.TcpConnection..ctor(Int32 port, RuntimeData data) 파일 C:\Users\khj\git\cstm\csharp\QualityScroll.Cover.CSharp\CoverageLibrary\CoverCSharpLibrary\data\TcpConnection.cs:줄 20
+   위치: QualityScroll.Cover.data.TcpOutput.Connect(Object sender, ElapsedEventArgs e) 파일 C:\Users\khj\git\cstm\csharp\QualityScroll.Cover.CSharp\CoverageLibrary\CoverCSharpLibrary\data\TcpOutput.cs:줄 45
+[COVER] DumpAll
+[COVER] System.IO.IOException: [COVER] connection has been closed
+   위치: QualityScroll.Cover.data.TcpOutput.GetWriter(String moduleKey)
+   위치: QualityScroll.Cover.data.RuntimeData.DumpAll()
+   위치: QualityScroll.Cover.Agent.ShutDown(Object sender, EventArgs e)
+[COVER] DumpToFile

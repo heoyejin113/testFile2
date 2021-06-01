@@ -1,0 +1,129 @@
+[INFO ] [main] Importing project.
+[INFO ] [main] Importing ruleSet.
+[INFO ] [main] Importing analysis exclusion.
+[INFO ] [main] Creating new revision.
+[INFO ] [main] ----------------------SolutionBuilder----------------------
+[INFO ] [main] Execute [cmd,/c,chcp,65001,&,cmd,/c,",C:\staticToolbox\apps\STATIC Client for C# v1.2.4\SolutionBuilder\SolutionBuilder.exe,-s,Tetris.sln,-o,C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT,-c,C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT\sb_option.json,"]
+[INFO ] [SolutionBuilder] Active code page: 65001
+[INFO ] [SolutionBuilder] [INFO] *******************************
+[INFO ] [SolutionBuilder] [INFO] SolutionBuilder 1.2.0.1
+[INFO ] [SolutionBuilder] [INFO] *******************************
+[INFO ] [SolutionBuilder] [INFO] Parsing the arguments.
+[INFO ] [SolutionBuilder] [INFO] - Solution file: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.sln
+[INFO ] [SolutionBuilder] [INFO] - Output path  : C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT
+[INFO ] [SolutionBuilder] [INFO] - Config path  : C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT\sb_option.json
+[INFO ] [SolutionBuilder] 
+[INFO ] [SolutionBuilder] [INFO] SetEnvVariable - MSBUILD_EXE_PATH :C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\MSBuild.exe
+[INFO ] [SolutionBuilder] [INFO] Open the solution file.
+[INFO ] [SolutionBuilder] [INFO] Open the project file(s).
+[INFO ] [SolutionBuilder] [INFO] Collecting the data.
+[INFO ] [SolutionBuilder] [INFO] Start Compile.
+[INFO ] [SolutionBuilder] 
+[INFO ] [SolutionBuilder] [INFO] Project: Tetris.GameEngine
+[INFO ] [SolutionBuilder] [INFO] Project: Tetris.ConsoleUI
+[INFO ] [SolutionBuilder] [INFO] Project: Tetris.DesktopUI
+[INFO ] [SolutionBuilder] [INFO] Project: Tetris.GameEngine.Test
+[INFO ] [SolutionBuilder] [WARNING] Compilation Finished. Check the Compile.log
+[INFO ] [SolutionBuilder] [INFO] Build STATUS is false
+[INFO ] [SolutionBuilder] [INFO] assemblyName / OutPutType - Tetris.GameEngine / Library
+[INFO ] [SolutionBuilder] [INFO] extension - .dll
+[INFO ] [SolutionBuilder] [INFO] Project option - Tetris.GameEngine, |
+[INFO ] [SolutionBuilder] [INFO] OutputPath - C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\bin\Debug\Tetris.GameEngine.dll
+[INFO ] [SolutionBuilder] [INFO] Original Output Path: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\bin\Debug\Tetris.GameEngine.dll
+[INFO ] [SolutionBuilder] [INFO] C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\bin\Debug\Tetris.GameEngine.dll is exist
+[INFO ] [SolutionBuilder] [INFO] Substitute output path to original path. (project: Tetris.GameEngine)
+[INFO ] [SolutionBuilder] [INFO] Build STATUS is false
+[INFO ] [SolutionBuilder] [INFO] assemblyName / OutPutType - Tetris.ConsoleUI / Exe
+[INFO ] [SolutionBuilder] [INFO] extension - .exe
+[INFO ] [SolutionBuilder] [INFO] Project option - Tetris.ConsoleUI, |
+[INFO ] [SolutionBuilder] [INFO] OutputPath - C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\bin\Debug\Tetris.ConsoleUI.exe
+[INFO ] [SolutionBuilder] [INFO] Original Output Path: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\bin\Debug\Tetris.ConsoleUI.exe
+[INFO ] [SolutionBuilder] [INFO] C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\bin\Debug\Tetris.ConsoleUI.exe is exist
+[INFO ] [SolutionBuilder] [INFO] Substitute output path to original path. (project: Tetris.ConsoleUI)
+[INFO ] [SolutionBuilder] [INFO] Build STATUS is false
+[INFO ] [SolutionBuilder] [INFO] assemblyName / OutPutType - Tetris.DesktopUI / WinExe
+[INFO ] [SolutionBuilder] [INFO] extension - .exe
+[INFO ] [SolutionBuilder] [INFO] Project option - Tetris.DesktopUI, |
+[INFO ] [SolutionBuilder] [INFO] OutputPath - C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\bin\Debug\Tetris.DesktopUI.exe
+[INFO ] [SolutionBuilder] [INFO] Original Output Path: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\bin\Debug\Tetris.DesktopUI.exe
+[INFO ] [SolutionBuilder] [INFO] C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\bin\Debug\Tetris.DesktopUI.exe is exist
+[INFO ] [SolutionBuilder] [INFO] Substitute output path to original path. (project: Tetris.DesktopUI)
+[INFO ] [SolutionBuilder] [INFO] Build STATUS is false
+[INFO ] [SolutionBuilder] [INFO] assemblyName / OutPutType - Tetris.GameEngine.Test / Library
+[INFO ] [SolutionBuilder] [INFO] extension - .dll
+[INFO ] [SolutionBuilder] [INFO] Project option - Tetris.GameEngine.Test, |
+[INFO ] [SolutionBuilder] [INFO] OutputPath - C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.Test.dll
+[INFO ] [SolutionBuilder] [INFO] Original Output Path: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.Test.dll
+[INFO ] [SolutionBuilder] [INFO] C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.Test.dll is exist
+[INFO ] [SolutionBuilder] [INFO] Substitute output path to original path. (project: Tetris.GameEngine.Test)
+[INFO ] [SolutionBuilder] [INFO] Create .STATICCSHARP file.
+[INFO ] [SolutionBuilder] [INFO] Execution TIme: 00:00:05
+[WARN ] [main] The process returned non-zero exit value. Exit value : 2
+[INFO ] [main] Start Analysis.
+[INFO ] [main] Updating revision.: PENDING
+[INFO ] [main] Updating revision.: ANALYZING
+[INFO ] [main] -----------------------FxCopExecutor-----------------------
+[INFO ] [main] Execute [cmd,/c,chcp,65001,&,cmd,/c,",FxCopCmd.exe,/file:C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\bin\Debug\Tetris.GameEngine.dll,/out:C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT\1620714071207.fxcop.xml,/ruleset:-C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT\all.ruleset,/ruleset:+C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT\active.ruleset,/gac,"]
+[INFO ] [FxCopExecutor] Active code page: 65001
+[ERROR] [FxCopExecutor] 'FxCopCmd.exe' is not recognized as an internal or external command,
+[ERROR] [FxCopExecutor] operable program or batch file.
+[WARN ] [main] FxCop execution for Tetris.GameEngine failed.
+[INFO ] [main] -----------------------FxCopExecutor-----------------------
+[INFO ] [main] Execute [cmd,/c,chcp,65001,&,cmd,/c,",FxCopCmd.exe,/file:C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\bin\Debug\Tetris.ConsoleUI.exe,/out:C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT\1620714071333.fxcop.xml,/ruleset:-C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT\all.ruleset,/ruleset:+C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT\active.ruleset,/directory:C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\bin\Debug,/gac,"]
+[INFO ] [FxCopExecutor] Active code page: 65001
+[ERROR] [FxCopExecutor] 'FxCopCmd.exe' is not recognized as an internal or external command,
+[ERROR] [FxCopExecutor] operable program or batch file.
+[WARN ] [main] FxCop execution for Tetris.ConsoleUI failed.
+[INFO ] [main] -----------------------FxCopExecutor-----------------------
+[INFO ] [main] Execute [cmd,/c,chcp,65001,&,cmd,/c,",FxCopCmd.exe,/file:C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\bin\Debug\Tetris.DesktopUI.exe,/out:C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT\1620714071463.fxcop.xml,/ruleset:-C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT\all.ruleset,/ruleset:+C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT\active.ruleset,/gac,"]
+[INFO ] [FxCopExecutor] Active code page: 65001
+[ERROR] [FxCopExecutor] 'FxCopCmd.exe' is not recognized as an internal or external command,
+[ERROR] [FxCopExecutor] operable program or batch file.
+[WARN ] [main] FxCop execution for Tetris.DesktopUI failed.
+[INFO ] [main] -----------------------FxCopExecutor-----------------------
+[INFO ] [main] Execute [cmd,/c,chcp,65001,&,cmd,/c,",FxCopCmd.exe,/file:C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\bin\Debug\Tetris.GameEngine.Test.dll,/out:C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT\1620714071581.fxcop.xml,/ruleset:-C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT\all.ruleset,/ruleset:+C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT\active.ruleset,/directory:C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\bin\Debug,/gac,"]
+[INFO ] [FxCopExecutor] Active code page: 65001
+[ERROR] [FxCopExecutor] 'FxCopCmd.exe' is not recognized as an internal or external command,
+[ERROR] [FxCopExecutor] operable program or batch file.
+[WARN ] [main] FxCop execution for Tetris.GameEngine.Test failed.
+[INFO ] [main] ----------------------StyleCopExecutor----------------------
+[INFO ] [main] Execute [cmd,/c,chcp,65001,&,cmd,/c,",C:\staticToolbox\apps\STATIC Client for C# v1.2.4\StyleCopCmd\StyleCopCmd.exe,/file:Tetris.sln,/out:C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT\1620714071710.stylecop.json,/rules:C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT\active_rules.json,/config:C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT\sb_option.json,"]
+[INFO ] [StyleCopExecutor] Active code page: 65001
+[INFO ] [StyleCopExecutor] [INFO] *******************************
+[INFO ] [StyleCopExecutor] [INFO] StyleCopCmd 1.2.0.0
+[INFO ] [StyleCopExecutor] [INFO] *******************************
+[INFO ] [StyleCopExecutor] [INFO] Parsing the arguments.
+[INFO ] [StyleCopExecutor] [INFO] 분석할 StyleCop 규칙이 존재하지 않습니다.(active_rules.json)
+[INFO ] [StyleCopExecutor] [INFO] Execution Time: 00:00:00
+[INFO ] [main] ----------------------MetricCalculator----------------------
+[INFO ] [main] Execute [cmd,/c,chcp,65001,&,cmd,/c,",C:\staticToolbox\apps\STATIC Client for C# v1.2.4\MetricCalculator\MetricCalculator.exe,-s,Tetris.sln,-e,C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT\.excluded,-o,C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT,-c,C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT\sb_option.json,"]
+[INFO ] [MetricCalculator] Active code page: 65001
+[INFO ] [MetricCalculator] [INFO] *******************************
+[INFO ] [MetricCalculator] [INFO] MetricCalculator 1.2.0.0
+[INFO ] [MetricCalculator] [INFO] *******************************
+[INFO ] [MetricCalculator] [INFO] Parsing the arguments.
+[INFO ] [MetricCalculator] [INFO] - Solution file: C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.sln
+[INFO ] [MetricCalculator] [INFO] - Output path  : C:\Users\mac1\Downloads\build\C#\Tetris\.static\KITKAT
+[INFO ] [MetricCalculator] 
+[INFO ] [MetricCalculator] [INFO] Open the solution file.
+[INFO ] [MetricCalculator] [INFO] Initialize data.
+[INFO ] [MetricCalculator] [INFO] Start calculating metrics.
+[INFO ] [MetricCalculator] [INFO] Start collecting information of the called function(s)
+[INFO ] [MetricCalculator] [INFO] [1/4] Tetris.GameEngine
+[INFO ] [MetricCalculator] [INFO] [2/4] Tetris.GameEngine.Test
+[INFO ] [MetricCalculator] [INFO] [3/4] Tetris.ConsoleUI
+[INFO ] [MetricCalculator] [INFO] [4/4] Tetris.DesktopUI
+[INFO ] [MetricCalculator] [INFO] Execution Time: 00:00:05
+[INFO ] [main] Collecting File committer
+[INFO ] [main] Collecting File committer
+[INFO ] [main] Collecting File committer
+[INFO ] [main] Collecting File committer
+[INFO ] [main] Updating revision.: FINISHED
+[INFO ] [main] Uploading project source file.
+[INFO ] [main] Creating defect file for upload.
+[INFO ] [main] Uploading defects.
+[INFO ] [main] Creating metric file for upload.
+[INFO ] [main] Uploading metrics.
+[INFO ] [main] Uploading analysis log.
+[INFO ] [main] Finish Analysis.
+[INFO ] [main] Writing hints in C:\Users\mac1\Downloads\build\C#\Tetris\.hint

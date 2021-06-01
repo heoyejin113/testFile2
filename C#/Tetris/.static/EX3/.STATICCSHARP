@@ -1,0 +1,46 @@
+{
+  "modules": [
+    {
+      "dependencies": [ ],
+      "name": "Tetris.GameEngine",
+      "output": "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\.static\\EX3\\Compile\\Tetris.GameEngine\\dotnet\\Tetris.GameEngine.exe",
+      "path": "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.GameEngine",
+      "sources": [ ],
+      "success": false,
+      "toolVersion": "10.0"
+    },
+    {
+      "dependencies": [ ],
+      "name": "Tetris.ConsoleUI",
+      "output": "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\.static\\EX3\\Compile\\Tetris.ConsoleUI\\dotnet\\Tetris.ConsoleUI.exe",
+      "path": "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.ConsoleUI",
+      "sources": [ ],
+      "success": false,
+      "toolVersion": "10.0"
+    },
+    {
+      "dependencies": [ ],
+      "name": "Tetris.DesktopUI",
+      "output": "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\.static\\EX3\\Compile\\Tetris.DesktopUI\\dotnet\\Tetris.DesktopUI.exe",
+      "path": "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.DesktopUI",
+      "sources": [ ],
+      "success": false,
+      "toolVersion": "10.0"
+    },
+    {
+      "dependencies": [ ],
+      "name": "Tetris.GameEngine.Test",
+      "output": "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\.static\\EX3\\Compile\\Tetris.GameEngine.Test\\dotnet\\Tetris.GameEngine.Test.exe",
+      "path": "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.GameEngine.Test",
+      "sources": [ ],
+      "success": false,
+      "toolVersion": "10.0"
+    }
+  ],
+  "visualStudios": [
+    {
+      "path": "C:\\Program Files (x86)\\Microsoft Visual Studio 10.0",
+      "version": "10.0"
+    }
+  ]
+}

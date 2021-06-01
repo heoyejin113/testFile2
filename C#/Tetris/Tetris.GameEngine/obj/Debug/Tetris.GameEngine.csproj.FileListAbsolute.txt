@@ -1,0 +1,15 @@
+F:\GIT_Repo\Tetris\Tetris.GameEngine\bin\Debug\Tetris.GameEngine.dll
+F:\GIT_Repo\Tetris\Tetris.GameEngine\bin\Debug\Tetris.GameEngine.pdb
+F:\GIT_Repo\Tetris\Tetris.GameEngine\obj\Debug\Tetris.GameEngine.csproj.CoreCompileInputs.cache
+F:\GIT_Repo\Tetris\Tetris.GameEngine\obj\Debug\Tetris.GameEngine.dll
+F:\GIT_Repo\Tetris\Tetris.GameEngine\obj\Debug\Tetris.GameEngine.pdb
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine\bin\Debug\Tetris.GameEngine.dll
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine\bin\Debug\Tetris.GameEngine.pdb
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine\bin\Debug\CoverCSharpLibrary.dll
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine\bin\Debug\CoverCSharpLibrary.pdb
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine\bin\Debug\CoverCSharpLibrary.xml
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine\obj\Debug\Tetris.GameEngine.dll
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine\obj\Debug\Tetris.GameEngine.pdb
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.GameEngine\obj\Debug\Tetris.GameEngine.csprojResolveAssemblyReference.cache

@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>STATIC Notification Mail</title>
+</head>
+<body>
+<div style="background-color: #f0f0f0; width: 100%">
+    <h1>
+        <span style="padding-left: 10px; padding-right: 10px;  color: #808080;">STATIC Notification</span>
+    </h1>
+    <p>
+      <span style="padding-left: 10px;  padding-right: 10px; color: #808080;">
+        <strong>
+          <a target="_blank " style="color: #3366ff;" th:href="@{${overviewPage}}"
+             th:text="${projectKeyAndName}">Not found prj Key!!</a>
+        </strong>
+      </span>
+    </p>
+    <div th:if="${projectInfo.getProjectStatus()} == 'ERROR'">
+        <table style="margin-left: 15px; width: 96%; border-collapse: collapse; background-color: #ffffff;"
+               border="0">
+            <tbody>
+
+            <tr>
+                <td style="padding-left: 10px; width: 100%;">
+                    <span style="color: #808080;">
+                                    Status :
+                    </span>
+                    <span style="color: #F44336;" th:text="${projectInfo.getProjectStatus()}">
+                    </span>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding-left: 10px; width: 100%;">
+                    <span style="color: #808080;">
+                                    Date :
+                    </span>
+                    <span style="color: #808080;" th:text="${date}">
+                    </span>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding-left: 10px; width: 100%;">
+                    <span style="color: #808080;">
+                                    Error log :
+                    </span>
+                    <a target="_blank " style="color: #3366ff;" th:href="@{${errorLog}}" th:text="${errorLog}">
+                    </a>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+    <div th:if="${projectInfo.getProjectStatus()} == 'FINISHED'">
+        <table style="margin-left: 15px; width: 96%; border-collapse: collapse; background-color: #ffffff;"
+               border="0">
+            <tbody>
+
+            <tr>
+                <td style="padding-left: 10px; width: 100%;">
+                    <span style="color: #808080;">
+                                    Status :
+                    </span>
+                    <span style="color: #808080;" th:text="${projectInfo.getProjectStatus()}">
+                    </span>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding-left: 10px; width: 100%;">
+                    <span style="color: #808080;">
+                                    Date :
+                    </span>
+                    <span style="color: #808080;" th:text="${date}">
+                    </span>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding-left: 10px; width: 100%;">
+                    <span style="color: #808080;">
+                                    Remaining :
+                    </span>
+                    <span style="color: #808080;" th:text="${projectInfo.getRevision().getTotalDefects()}">
+                    </span>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding-left: 10px; width: 100%;">
+                    <span style="color: #808080;">
+                                    Suppressed :
+                    </span>
+                    <span style="color: #808080;" th:text="${projectInfo.getRevision().getSuppressedDefects()}">
+                    </span>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding-left: 10px; width: 100%;">
+                    <span style="color: #808080;">
+                                    New :
+                    </span>
+                    <span style="color: #808080;" th:text="${projectInfo.getRevision().getAddedDefects()}">
+                    </span>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding-left: 10px; width: 100%;">
+                    <span style="color: #808080;">
+                                    Closed :
+                    </span>
+                    <span style="color: #808080;" th:text="${projectInfo.getRevision().getDeletedDefects()}">
+                    </span>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div>&nbsp;</div>
+
+
+</div>
+</body>
+</html>

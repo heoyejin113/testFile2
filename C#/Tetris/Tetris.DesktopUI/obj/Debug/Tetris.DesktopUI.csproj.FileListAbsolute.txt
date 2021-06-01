@@ -1,0 +1,13 @@
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.DesktopUI\bin\Debug\Tetris.DesktopUI.exe.config
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.DesktopUI\bin\Debug\Tetris.DesktopUI.exe
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.DesktopUI\bin\Debug\Tetris.DesktopUI.pdb
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.DesktopUI\bin\Debug\CoverCSharpLibrary.dll
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.DesktopUI\bin\Debug\CoverCSharpLibrary.pdb
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.DesktopUI\bin\Debug\CoverCSharpLibrary.xml
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.DesktopUI\obj\Debug\Tetris.DesktopUI.Properties.Resources.resources
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.DesktopUI\obj\Debug\Tetris.DesktopUI.csproj.GenerateResource.Cache
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.DesktopUI\obj\Debug\Tetris.DesktopUI.exe
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.DesktopUI\obj\Debug\Tetris.DesktopUI.pdb
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.DesktopUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.DesktopUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.DesktopUI\obj\Debug\Tetris.DesktopUI.csprojResolveAssemblyReference.cache

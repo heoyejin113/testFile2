@@ -1,0 +1,22 @@
+상세 결과,2020/11/30 12:10:12 ~ 2020/11/30 12:10:14,,,,,,,,
+번호,규칙,분류,규칙 모음,위배 진단,소스 파일,소스 경로,위배한 함수,라인,심각도,위배 해쉬
+1,S3577,기타,Java test code ruleset,"Rename class ""HelloWorldTests"" to match the regular expression: '^((Test|IT)[a-zA-Z0-9]+|[A-Z][a-zA-Z0-9]*(Test|IT|TestCase|ITCase))$'",HelloWorldTests.java,src/test/java/hello/HelloWorldTests.java,-,14,매우낮음,8971357178137401742
+2,S3578,기타,Java test code ruleset,Rename this method name to match the regular expression: '^test[A-Z][a-zA-Z0-9]*$',HelloWorldTests.java,src/test/java/hello/HelloWorldTests.java,-,25,매우낮음,-4703018776242749432
+3,S2698,기타,Java test code ruleset,Add a message to this assertion.,HelloWorldTests.java,src/test/java/hello/HelloWorldTests.java,-,28,매우낮음,7511000193656759793
+4,S3578,기타,Java test code ruleset,Rename this method name to match the regular expression: '^test[A-Z][a-zA-Z0-9]*$',HelloWorldTests.java,src/test/java/hello/HelloWorldTests.java,-,32,매우낮음,9187441843498380792
+5,S1607,기타,Java test code ruleset,Fix or remove this skipped unit test,HelloWorldTests.java,src/test/java/hello/HelloWorldTests.java,-,32,낮음,5261952084525338286
+6,S2698,기타,Java test code ruleset,Add a message to this assertion.,HelloWorldTests.java,src/test/java/hello/HelloWorldTests.java,-,35,매우낮음,-7694690498973283745
+7,S113,기타,All rules,Add a new line at the end of this file.,HelloWorld.java,src/main/java/hello/HelloWorld.java,-,-1,매우낮음,-3689301772390737221
+8,S1128,기타,All rules,Remove this unused import 'java.util.logging.Logger'.,HelloWorld.java,src/main/java/hello/HelloWorld.java,-,5,매우낮음,-2178705805392471079
+9,S1128,기타,All rules,Remove this unused import 'java.util.logging.Level'.,HelloWorld.java,src/main/java/hello/HelloWorld.java,-,4,매우낮음,7876277272085527946
+10,S1106,기타,All rules,Move this left curly brace to the beginning of next line of code.,HelloWorld.java,src/main/java/hello/HelloWorld.java,-,7,매우낮음,879374040667401082
+11,S1106,기타,All rules,Move this left curly brace to the beginning of next line of code.,HelloWorld.java,src/main/java/hello/HelloWorld.java,-,8,매우낮음,6324858958589688398
+12,S1451,기타,All rules,Add or update the header of this file.,HelloWorld.java,src/main/java/hello/HelloWorld.java,-,-1,매우높음,-5415732512503599641
+13,S106,기타,All rules,Replace this use of System.out or System.err by a logger.,HelloWorld.java,src/main/java/hello/HelloWorld.java,-,10,낮음,1480043913407435211
+14,S106,기타,All rules,Replace this use of System.out or System.err by a logger.,HelloWorld.java,src/main/java/hello/HelloWorld.java,-,13,낮음,-7784256521265301050
+15,S113,기타,All rules,Add a new line at the end of this file.,Greeter.java,src/main/java/hello/Greeter.java,-,-1,매우낮음,-8528383786338506625
+16,S1106,기타,All rules,Move this left curly brace to the beginning of next line of code.,Greeter.java,src/main/java/hello/Greeter.java,-,3,매우낮음,2584655563221979425
+17,S1106,기타,All rules,Move this left curly brace to the beginning of next line of code.,Greeter.java,src/main/java/hello/Greeter.java,-,4,매우낮음,6727040159785161495
+18,S1451,기타,All rules,Add or update the header of this file.,Greeter.java,src/main/java/hello/Greeter.java,-,-1,매우높음,1822589858516253707
+19,S3400,기타,All rules,Remove this method and declare a constant for this value.,Greeter.java,src/main/java/hello/Greeter.java,-,5,매우낮음,1496149679697694766
+20,S1228,기타,All rules,Add a 'package-info.java' file to document the 'src\main\java\hello' package,-,-,-,-1,매우낮음,-7074781646090960220

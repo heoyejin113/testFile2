@@ -1,0 +1,76 @@
+{
+  "modules": [
+    {
+      "dependencies": [ ],
+      "name": "Tetris.GameEngine",
+      "output": "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.GameEngine\\bin\\Debug\\Tetris.GameEngine.dll",
+      "path": "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.GameEngine",
+      "sources": [
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.GameEngine\\Board.cs",
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.GameEngine\\Game.cs",
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.GameEngine\\Interfaces\\IMode.cs",
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.GameEngine\\Interfaces\\IMovable.cs",
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.GameEngine\\Piece.cs",
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.GameEngine\\PieceFactory.cs",
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.GameEngine\\Properties\\AssemblyInfo.cs"
+      ],
+      "success": true,
+      "toolVersion": "10.0"
+    },
+    {
+      "dependencies": [
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.GameEngine\\bin\\Debug"
+      ],
+      "name": "Tetris.ConsoleUI",
+      "output": "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.ConsoleUI\\bin\\Debug\\Tetris.ConsoleUI.exe",
+      "path": "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.ConsoleUI",
+      "sources": [
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.ConsoleUI\\ConsoleDrawing.cs",
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.ConsoleUI\\Interfaces\\IDrawing.cs",
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.ConsoleUI\\Program.cs",
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.ConsoleUI\\Properties\\AssemblyInfo.cs"
+      ],
+      "success": true,
+      "toolVersion": "10.0"
+    },
+    {
+      "dependencies": [ ],
+      "name": "Tetris.DesktopUI",
+      "output": "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.DesktopUI\\bin\\Debug\\Tetris.DesktopUI.exe",
+      "path": "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.DesktopUI",
+      "sources": [
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.DesktopUI\\Form1.cs",
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.DesktopUI\\Form1.Designer.cs",
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.DesktopUI\\Program.cs",
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.DesktopUI\\Properties\\AssemblyInfo.cs",
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.DesktopUI\\Properties\\Resources.Designer.cs",
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.DesktopUI\\Properties\\Settings.Designer.cs"
+      ],
+      "success": true,
+      "toolVersion": "10.0"
+    },
+    {
+      "dependencies": [
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.GameEngine\\bin\\Debug"
+      ],
+      "name": "Tetris.GameEngine.Test",
+      "output": "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.GameEngine.Test\\bin\\Debug\\Tetris.GameEngine.Test.dll",
+      "path": "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.GameEngine.Test",
+      "sources": [
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.GameEngine.Test\\PieceFactoryTest.cs",
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.GameEngine.Test\\PieceTest.cs",
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.GameEngine.Test\\Properties\\AssemblyInfo.cs",
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.GameEngine.Test\\GameTest.cs",
+        "C:\\Users\\mac1\\Downloads\\build\\C#\\Tetris\\Tetris.GameEngine.Test\\BoardTest.cs"
+      ],
+      "success": true,
+      "toolVersion": "10.0"
+    }
+  ],
+  "visualStudios": [
+    {
+      "path": "C:\\Program Files (x86)\\Microsoft Visual Studio 10.0",
+      "version": "10.0"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+create table mail_server_config (key varchar(255) not null, from_address CLOB, host CLOB, password CLOB, port integer not null, prefix CLOB, protocol integer, timeout bigint, tls boolean not null, user_name CLOB, primary key (key))

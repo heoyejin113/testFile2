@@ -1,0 +1,114 @@
+[INFO ] [main] Importing project.
+[INFO ] [main] Importing ruleSet.
+[INFO ] [main] Importing analysis exclusion.
+[INFO ] [main] Creating new revision.
+[INFO ] [main] ----------------------SolutionBuilder----------------------
+[INFO ] [main] Execute [cmd,/c,chcp,65001,&,cmd,/c,",C:\Users\ysgo\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C# v1.2.2\SolutionBuilder\SolutionBuilder.exe,-p,C:\Users\ysgo\Desktop\Selenium\STATIC_Automation\src\csharp\Compatibility\English\Tetris\Tetris.ConsoleUI\Tetris.ConsoleUI.csproj,-o,C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1,-c,C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\sb_option.json,"]
+[INFO ] [SolutionBuilder] Active code page: 65001
+[INFO ] [SolutionBuilder] [INFO] Parsing the arguments.
+[INFO ] [SolutionBuilder] [INFO] - Project files: 1
+[INFO ] [SolutionBuilder] [INFO] - Output path  : C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1
+[INFO ] [SolutionBuilder] [INFO] - Config path  : C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\sb_option.json
+[INFO ] [SolutionBuilder] 
+[INFO ] [SolutionBuilder] [INFO] Open the project file(s).
+[INFO ] [SolutionBuilder] [INFO] Collecting the data.
+[INFO ] [SolutionBuilder] [INFO] Start Compile.
+[INFO ] [SolutionBuilder] 
+[INFO ] [SolutionBuilder] [INFO] Project: Tetris.ConsoleUI
+[INFO ] [SolutionBuilder] 
+[INFO ] [SolutionBuilder] [INFO] Compilation Finished
+[INFO ] [SolutionBuilder] [INFO] Create .STATICCSHARP file.
+[INFO ] [SolutionBuilder] [INFO] Execution TIme: 00:00:05
+[INFO ] [main] Start Analysis.
+[INFO ] [main] Updating revision.: PENDING
+[INFO ] [main] Updating revision.: ANALYZING
+[INFO ] [main] -----------------------FxCopExecutor-----------------------
+[INFO ] [main] Execute [cmd,/c,chcp,65001,&,cmd,/c,",C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\Team Tools\Static Analysis Tools\FxCop\FxCopCmd.exe,/file:C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\Compile\Tetris.ConsoleUI\net45\Tetris.ConsoleUI.exe,/out:C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\1598333706863.fxcop.xml,/ruleset:-C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\all.ruleset,/ruleset:+C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active.ruleset,/directory:C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\Compile\Tetris.ConsoleUI\net45,/gac,"]
+[INFO ] [FxCopExecutor] Active code page: 65001
+[INFO ] [FxCopExecutor] Microsoft (R) FxCop 명령줄 도구, 버전 16.0(16.0.29724.72) X86
+[INFO ] [FxCopExecutor] Copyright (C) Microsoft Corporation, All Rights Reserved.
+[INFO ] [FxCopExecutor] 
+[INFO ] [FxCopExecutor] dataflowrules.dll을(를) 로드했습니다...
+[INFO ] [FxCopExecutor] designrules.dll을(를) 로드했습니다...
+[INFO ] [FxCopExecutor] globalizationrules.dll을(를) 로드했습니다...
+[INFO ] [FxCopExecutor] interoperabilityrules.dll을(를) 로드했습니다...
+[INFO ] [FxCopExecutor] maintainabilityrules.dll을(를) 로드했습니다...
+[INFO ] [FxCopExecutor] mobilityrules.dll을(를) 로드했습니다...
+[INFO ] [FxCopExecutor] namingrules.dll을(를) 로드했습니다...
+[INFO ] [FxCopExecutor] performancerules.dll을(를) 로드했습니다...
+[INFO ] [FxCopExecutor] portabilityrules.dll을(를) 로드했습니다...
+[INFO ] [FxCopExecutor] reliabilityrules.dll을(를) 로드했습니다...
+[INFO ] [FxCopExecutor] securityrules.dll을(를) 로드했습니다...
+[INFO ] [FxCopExecutor] securitytransparencyrules.dll을(를) 로드했습니다...
+[INFO ] [FxCopExecutor] usagerules.dll을(를) 로드했습니다...
+[ERROR] [FxCopExecutor] C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\Compile\Tetris.ConsoleUI\net45\Tetris.ConsoleUI.exe을(를) 로드할 수 없습니다. 'Tetris.ConsoleUI' 모듈을 읽는 동안 다음 오류가 발생했습니다. 어셈블리 참조를 확인할 수 없습니다. Tetris.GameEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.
+[INFO ] [FxCopExecutor] 
+[INFO ] [FxCopExecutor] 참고: 하나 이상의 참조된 어셈블리를 찾을 수 없습니다. '/directory' 또는 '/reference' 스위치를 사용하여 추가 어셈블리 참조 검색 경로를 지정하십시오.
+[INFO ] [FxCopExecutor] 
+[ERROR] [FxCopExecutor] * 분석 작업이 수행되지 않았습니다. 적어도 하나 이상의 올바른 규칙 어셈블리와
+[ERROR] [FxCopExecutor] 올바른 대상 파일을 지정해야 합니다.
+[ERROR] [FxCopExecutor] * 총 분석 엔진 예외는 2개입니다.
+[INFO ] [FxCopExecutor] C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\1598333706863.fxcop.xml에 보고서를 쓰고 있습니다...
+[INFO ] [FxCopExecutor] 완료:00:00:00.8681967
+[WARN ] [main] FxCop execution for Tetris.ConsoleUI failed.
+[INFO ] [main] ----------------------StyleCopExecutor----------------------
+[INFO ] [main] Execute [cmd,/c,chcp,65001,&,cmd,/c,",C:\Users\ysgo\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C# v1.2.2\StyleCopCmd\StyleCopCmd.exe,/file:C:\Users\ysgo\Desktop\Selenium\STATIC_Automation\src\csharp\Compatibility\English\Tetris\Tetris.ConsoleUI\Tetris.ConsoleUI.csproj,/out:C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\1598333708014.stylecop.json,/rules:C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\active_rules.json,"]
+[INFO ] [StyleCopExecutor] Active code page: 65001
+[INFO ] [StyleCopExecutor] [INFO] Project file: C:\Users\ysgo\Desktop\Selenium\STATIC_Automation\src\csharp\Compatibility\English\Tetris\Tetris.ConsoleUI\Tetris.ConsoleUI.csproj
+[INFO ] [StyleCopExecutor] [INFO] Output path : C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\1598333708014.stylecop.json
+[INFO ] [StyleCopExecutor] [INFO] Loaded Tetris.ConsoleUI.csproj in 2741ms
+[INFO ] [StyleCopExecutor] [INFO] Start Analysis
+[INFO ] [StyleCopExecutor] [INFO] Finish Analysis
+[INFO ] [StyleCopExecutor] [INFO] SA1001: 4 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1005: 9 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1008: 2 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1009: 4 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1012: 4 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1013: 4 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1025: 2 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1028: 5 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1101: 3 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1106: 1 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1124: 2 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1200: 14 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1204: 2 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1208: 1 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1210: 2 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1214: 1 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1309: 5 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1311: 1 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1400: 4 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1413: 1 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1500: 1 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1503: 4 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1508: 1 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1513: 6 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1600: 7 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1629: 4 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1633: 4 instances
+[INFO ] [StyleCopExecutor] [INFO] SA1649: 1 instances
+[INFO ] [StyleCopExecutor] [INFO] Found 99 diagnostics in 2049ms
+[INFO ] [StyleCopExecutor] [INFO] Write diagnostics to output file
+[INFO ] [StyleCopExecutor] [INFO] Execution Time: 00:00:04
+[INFO ] [main] ----------------------MetricCalculator----------------------
+[INFO ] [main] Execute [cmd,/c,chcp,65001,&,cmd,/c,",C:\Users\ysgo\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C# v1.2.2\MetricCalculator\MetricCalculator.exe,-p,C:\Users\ysgo\Desktop\Selenium\STATIC_Automation\src\csharp\Compatibility\English\Tetris\Tetris.ConsoleUI\Tetris.ConsoleUI.csproj,-e,C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1\.excluded,-o,C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1,"]
+[INFO ] [MetricCalculator] Active code page: 65001
+[INFO ] [MetricCalculator] [INFO] Parsing the arguments.
+[INFO ] [MetricCalculator] [INFO] - Project files: 1
+[INFO ] [MetricCalculator] [INFO] - Output path  : C:\Users\ysgo\Desktop\STATIC-C#\Tetris\Tetris.ConsoleUI\.static\PROKEY1
+[INFO ] [MetricCalculator] 
+[INFO ] [MetricCalculator] [INFO] Open the project file(s).
+[INFO ] [MetricCalculator] [INFO] Initialize data.
+[INFO ] [MetricCalculator] [INFO] Start calculating the metrics.
+[INFO ] [MetricCalculator] [INFO] Start collecting information of the called function(s)
+[INFO ] [MetricCalculator] [INFO] [1/1] Tetris.ConsoleUI
+[INFO ] [MetricCalculator] [INFO] Execution Time: 00:00:04
+[INFO ] [main] Collecting File committer
+[INFO ] [main] Updating revision.: FINISHED
+[INFO ] [main] Uploading project source file.
+[INFO ] [main] Creating defect file for upload.
+[INFO ] [main] Uploading defects.
+[INFO ] [main] Creating metric file for upload.
+[INFO ] [main] Uploading metrics.
+[INFO ] [main] Uploading analysis log.
+[INFO ] [main] Finish Analysis.

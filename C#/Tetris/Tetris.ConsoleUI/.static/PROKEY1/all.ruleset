@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RuleSet Name="All Rules" ToolsVersion="15.0">
+    <IncludeAll Action="Warning"/>
+</RuleSet>

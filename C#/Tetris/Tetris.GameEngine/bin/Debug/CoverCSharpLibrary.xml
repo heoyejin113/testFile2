@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<OPTIONS>
+  <!-- FILE, TCP -->
+  <OUTPUT type="FILE">
+    <TCP port="9093" connection-interval="3000"/>
+    <FILE path="%COVER_INSTALL_PATH%\coverage" dump-interval="5000"/>
+  </OUTPUT>
+
+  <!-- FILE, CONSOLE, NONE -->
+  <LOG type="NONE">
+    <CONSOLE/>
+    <FILE path="%COVER_INSTALL_PATH%\logs"/>
+  </LOG>
+</OPTIONS>

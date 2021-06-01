@@ -1,0 +1,441 @@
+
+Project: Tetris.GameEngine
+warning CS8021: RuntimeMetadataVersion 값을 찾을 수 없습니다. System.Object가 포함된 어셈블리를 찾을 수 없고 옵션을 통해 지정된 RuntimeMetadataVersion 값이 아닙니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(8,12): error CS0246: AssemblyTitleAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(8,12): error CS0246: AssemblyTitle' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(9,12): error CS0246: AssemblyDescriptionAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(9,12): error CS0246: AssemblyDescription' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(10,12): error CS0246: AssemblyConfigurationAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(10,12): error CS0246: AssemblyConfiguration' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(11,12): error CS0246: AssemblyCompanyAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(11,12): error CS0246: AssemblyCompany' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(12,12): error CS0246: AssemblyProductAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(12,12): error CS0246: AssemblyProduct' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(13,12): error CS0246: AssemblyCopyrightAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(13,12): error CS0246: AssemblyCopyright' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(14,12): error CS0246: AssemblyTrademarkAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(14,12): error CS0246: AssemblyTrademark' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(15,12): error CS0246: AssemblyCultureAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(15,12): error CS0246: AssemblyCulture' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(20,12): error CS0246: ComVisibleAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(20,12): error CS0246: ComVisible' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(23,12): error CS0246: GuidAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(23,12): error CS0246: Guid' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(35,12): error CS0246: AssemblyVersionAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(35,12): error CS0246: AssemblyVersion' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(36,12): error CS0246: AssemblyFileVersionAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(36,12): error CS0246: AssemblyFileVersion' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(8,26): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(9,32): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(10,34): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(11,28): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(12,28): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(13,30): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(14,30): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(15,28): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(20,23): error CS0518: 미리 정의된 형식 'System.Boolean'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(23,17): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(35,28): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(36,32): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Board.cs(1,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Game.cs(1,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Interfaces\IMode.cs(1,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Interfaces\IMode.cs(2,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Interfaces\IMode.cs(3,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Interfaces\IMode.cs(4,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Interfaces\IMode.cs(5,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Interfaces\IMovable.cs(1,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Piece.cs(1,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\PieceFactory.cs(1,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\PieceFactory.cs(2,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(1,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(2,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Properties\AssemblyInfo.cs(3,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\PieceFactory.cs(6,25): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Piece.cs(5,25): error CS0246: ICloneable' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Board.cs(5,25): error CS0246: ICloneable' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Game.cs(6,18): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Game.cs(8,23): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Game.cs(9,23): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Interfaces\IMode.cs(11,9): error CS0518: 미리 정의된 형식 'System.Boolean'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Piece.cs(32,16): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Game.cs(57,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Game.cs(67,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Game.cs(83,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Game.cs(96,16): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Interfaces\IMovable.cs(7,9): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Interfaces\IMovable.cs(8,9): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Interfaces\IMovable.cs(9,9): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Interfaces\IMovable.cs(10,9): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Interfaces\IMovable.cs(11,9): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Game.cs(104,16): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Interfaces\IMode.cs(11,35): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Interfaces\IMode.cs(12,9): error CS0518: 미리 정의된 형식 'System.Boolean'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Interfaces\IMode.cs(12,37): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\PieceFactory.cs(36,42): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\PieceFactory.cs(36,23): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\PieceFactory.cs(49,44): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\PieceFactory.cs(49,44): error CS0246: Random' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\PieceFactory.cs(49,23): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\PieceFactory.cs(58,23): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\PieceFactory.cs(69,23): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Board.cs(38,30): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Board.cs(38,43): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Board.cs(38,50): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Board.cs(38,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Board.cs(57,16): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Board.cs(75,30): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Board.cs(75,43): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Board.cs(75,50): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Board.cs(75,16): error CS0518: 미리 정의된 형식 'System.Boolean'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Board.cs(99,16): error CS0518: 미리 정의된 형식 'System.Boolean'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Game.cs(112,16): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Game.cs(133,16): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Game.cs(141,16): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Game.cs(157,16): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Game.cs(165,16): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Game.cs(177,17): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Game.cs(218,17): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Game.cs(231,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Game.cs(239,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Game.cs(247,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine\Game.cs(252,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+Error 개수가 100개를 초과하였습니다.
+발생된 Error 부터 해결하는 것이 바람직합니다.
+Error: 534
+Warning: 1
+Compile Failed.
+
+
+
+Project: Tetris.ConsoleUI
+warning CS8021: RuntimeMetadataVersion 값을 찾을 수 없습니다. System.Object가 포함된 어셈블리를 찾을 수 없고 옵션을 통해 지정된 RuntimeMetadataVersion 값이 아닙니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(8,12): error CS0246: AssemblyTitleAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(8,12): error CS0246: AssemblyTitle' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(9,12): error CS0246: AssemblyDescriptionAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(9,12): error CS0246: AssemblyDescription' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(10,12): error CS0246: AssemblyConfigurationAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(10,12): error CS0246: AssemblyConfiguration' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(11,12): error CS0246: AssemblyCompanyAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(11,12): error CS0246: AssemblyCompany' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(12,12): error CS0246: AssemblyProductAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(12,12): error CS0246: AssemblyProduct' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(13,12): error CS0246: AssemblyCopyrightAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(13,12): error CS0246: AssemblyCopyright' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(14,12): error CS0246: AssemblyTrademarkAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(14,12): error CS0246: AssemblyTrademark' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(15,12): error CS0246: AssemblyCultureAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(15,12): error CS0246: AssemblyCulture' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(20,12): error CS0246: ComVisibleAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(20,12): error CS0246: ComVisible' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(23,12): error CS0246: GuidAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(23,12): error CS0246: Guid' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(35,12): error CS0246: AssemblyVersionAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(35,12): error CS0246: AssemblyVersion' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(36,12): error CS0246: AssemblyFileVersionAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(36,12): error CS0246: AssemblyFileVersion' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(8,26): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(9,32): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(10,34): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(11,28): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(12,28): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(13,30): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(14,30): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(15,28): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(20,23): error CS0518: 미리 정의된 형식 'System.Boolean'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(23,17): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(35,28): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(36,32): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(1,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Interfaces\IDrawing.cs(1,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Interfaces\IDrawing.cs(2,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Interfaces\IDrawing.cs(3,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Interfaces\IDrawing.cs(4,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Interfaces\IDrawing.cs(5,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(1,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(2,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(4,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(1,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(2,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Properties\AssemblyInfo.cs(3,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(8,11): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(8,11): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(11,23): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(12,23): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(13,23): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(16,25): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(16,16): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(54,47): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(54,47): error CS0246: ConsoleKeyInfo' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(54,24): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(98,42): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(98,57): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(98,57): error CS0246: ElapsedEventArgs' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(98,24): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Interfaces\IDrawing.cs(12,9): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(10,24): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(11,25): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(12,25): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(12,25): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(13,24): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(14,33): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(26,31): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(26,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(63,23): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(86,34): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(86,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(96,39): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(96,24): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(103,39): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(103,24): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(110,32): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(110,44): error CS0518: 미리 정의된 형식 'System.Boolean'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(110,17): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(178,39): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(178,49): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(178,49): error CS0246: ConsoleColor' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(178,24): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(19,33): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(11,38): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(12,38): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(13,38): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(13,44): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\Program.cs(14,50): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(20,14): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(20,16): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(20,18): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(20,20): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(20,22): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(21,14): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(21,16): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.ConsoleUI\ConsoleDrawing.cs(21,18): error CS0518: 미리 정의된 형식 'System.Int32'을(를) 정의하지 않았거나 가져오지 않았습니다.
+Error 개수가 100개를 초과하였습니다.
+발생된 Error 부터 해결하는 것이 바람직합니다.
+Error: 395
+Warning: 1
+Compile Failed.
+
+
+
+Project: Tetris.DesktopUI
+warning CS8021: RuntimeMetadataVersion 값을 찾을 수 없습니다. System.Object가 포함된 어셈블리를 찾을 수 없고 옵션을 통해 지정된 RuntimeMetadataVersion 값이 아닙니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(8,12): error CS0246: AssemblyTitleAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(8,12): error CS0246: AssemblyTitle' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(9,12): error CS0246: AssemblyDescriptionAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(9,12): error CS0246: AssemblyDescription' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(10,12): error CS0246: AssemblyConfigurationAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(10,12): error CS0246: AssemblyConfiguration' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(11,12): error CS0246: AssemblyCompanyAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(11,12): error CS0246: AssemblyCompany' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(12,12): error CS0246: AssemblyProductAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(12,12): error CS0246: AssemblyProduct' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(13,12): error CS0246: AssemblyCopyrightAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(13,12): error CS0246: AssemblyCopyright' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(14,12): error CS0246: AssemblyTrademarkAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(14,12): error CS0246: AssemblyTrademark' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(15,12): error CS0246: AssemblyCultureAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(15,12): error CS0246: AssemblyCulture' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(20,12): error CS0246: ComVisibleAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(20,12): error CS0246: ComVisible' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(23,12): error CS0246: GuidAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(23,12): error CS0246: Guid' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(35,12): error CS0246: AssemblyVersionAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(35,12): error CS0246: AssemblyVersion' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(36,12): error CS0246: AssemblyFileVersionAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(36,12): error CS0246: AssemblyFileVersion' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(8,26): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(9,32): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(10,34): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(11,28): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(12,28): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(13,30): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(14,30): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(15,28): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(20,23): error CS0518: 미리 정의된 형식 'System.Boolean'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(23,17): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(35,28): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(36,32): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Form1.cs(1,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Form1.cs(2,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Form1.cs(3,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Form1.cs(4,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Form1.cs(5,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Form1.cs(6,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Form1.cs(7,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Form1.cs(8,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Form1.cs(9,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Program.cs(1,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Program.cs(2,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Program.cs(3,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Program.cs(4,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Program.cs(5,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(1,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(2,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\AssemblyInfo.cs(3,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Form1.cs(13,34): error CS0246: Form' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Program.cs(9,18): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Program.cs(15,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Program.cs(14,10): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Program.cs(14,10): error CS0246: STAThreadAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Program.cs(14,10): error CS0246: STAThread' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Form1.Designer.cs(14,41): error CS0518: 미리 정의된 형식 'System.Boolean'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Form1.Designer.cs(14,28): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs(22,14): error CS0400: 전역 네임스페이스에 'System' 형식 또는 네임스페이스 이름이 없습니다. 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs(23,14): error CS0400: 전역 네임스페이스에 'System' 형식 또는 네임스페이스 이름이 없습니다. 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs(24,14): error CS0400: 전역 네임스페이스에 'System' 형식 또는 네임스페이스 이름이 없습니다. 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs(22,61): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs(22,116): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs(25,20): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs(41,33): error CS0400: 전역 네임스페이스에 'System' 형식 또는 네임스페이스 이름이 없습니다. 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs(59,33): error CS0400: 전역 네임스페이스에 'System' 형식 또는 네임스페이스 이름이 없습니다. 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs(65,13): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs(28,32): error CS0400: 전역 네임스페이스에 'System' 형식 또는 네임스페이스 이름이 없습니다. 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs(30,32): error CS0400: 전역 네임스페이스에 'System' 형식 또는 네임스페이스 이름이 없습니다. 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs(32,9): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs(32,18): error CS0400: 전역 네임스페이스에 'System' 형식 또는 네임스페이스 이름이 없습니다. 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs(32,75): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs(32,100): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Settings.Designer.cs(15,14): error CS0400: 전역 네임스페이스에 'System' 형식 또는 네임스페이스 이름이 없습니다. 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Settings.Designer.cs(16,14): error CS0400: 전역 네임스페이스에 'System' 형식 또는 네임스페이스 이름이 없습니다. 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Settings.Designer.cs(16,61): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Settings.Designer.cs(16,140): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Settings.Designer.cs(17,54): error CS0400: 전역 네임스페이스에 'System' 형식 또는 네임스페이스 이름이 없습니다. 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Settings.Designer.cs(22,23): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Settings.Designer.cs(20,24): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs(40,18): error CS0400: 전역 네임스페이스에 'System' 형식 또는 네임스페이스 이름이 없습니다. 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs(40,73): error CS0400: 전역 네임스페이스에 'System' 형식 또는 네임스페이스 이름이 없습니다. 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs(58,18): error CS0400: 전역 네임스페이스에 'System' 형식 또는 네임스페이스 이름이 없습니다. 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs(58,73): error CS0400: 전역 네임스페이스에 'System' 형식 또는 네임스페이스 이름이 없습니다. 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Form1.Designer.cs(29,17): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Form1.cs(15,9): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Form1.Designer.cs(8,17): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Form1.Designer.cs(8,17): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Resources.Designer.cs(33,18): error CS1729: 'object'에는 인수를 0개 사용하는 생성자가 포함되어 있지 않습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Settings.Designer.cs(20,71): error CS0400: 전역 네임스페이스에 'System' 형식 또는 네임스페이스 이름이 없습니다. 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Settings.Designer.cs(20,133): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Settings.Designer.cs(20,133): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Properties\Settings.Designer.cs(20,53): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Program.cs(17,13): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Program.cs(17,13): error CS0103: Application' 이름이 현재 컨텍스트에 없습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.DesktopUI\Program.cs(18,13): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+Error 개수가 100개를 초과하였습니다.
+발생된 Error 부터 해결하는 것이 바람직합니다.
+Error: 123
+Warning: 1
+Compile Failed.
+
+
+
+Project: Tetris.GameEngine.Test
+warning CS8021: RuntimeMetadataVersion 값을 찾을 수 없습니다. System.Object가 포함된 어셈블리를 찾을 수 없고 옵션을 통해 지정된 RuntimeMetadataVersion 값이 아닙니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(8,12): error CS0246: AssemblyTitleAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(8,12): error CS0246: AssemblyTitle' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(9,12): error CS0246: AssemblyDescriptionAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(9,12): error CS0246: AssemblyDescription' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(10,12): error CS0246: AssemblyConfigurationAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(10,12): error CS0246: AssemblyConfiguration' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(11,12): error CS0246: AssemblyCompanyAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(11,12): error CS0246: AssemblyCompany' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(12,12): error CS0246: AssemblyProductAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(12,12): error CS0246: AssemblyProduct' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(13,12): error CS0246: AssemblyCopyrightAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(13,12): error CS0246: AssemblyCopyright' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(14,12): error CS0246: AssemblyTrademarkAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(14,12): error CS0246: AssemblyTrademark' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(15,12): error CS0246: AssemblyCultureAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(15,12): error CS0246: AssemblyCulture' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(20,12): error CS0246: ComVisibleAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(20,12): error CS0246: ComVisible' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(23,12): error CS0246: GuidAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(23,12): error CS0246: Guid' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(35,12): error CS0246: AssemblyVersionAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(35,12): error CS0246: AssemblyVersion' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(36,12): error CS0246: AssemblyFileVersionAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(36,12): error CS0246: AssemblyFileVersion' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(8,26): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(9,32): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(10,34): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(11,28): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(12,28): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(13,30): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(14,30): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(15,28): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(20,23): error CS0518: 미리 정의된 형식 'System.Boolean'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(23,17): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(35,28): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(36,32): error CS0518: 미리 정의된 형식 'System.String'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\PieceFactoryTest.cs(1,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\PieceFactoryTest.cs(3,7): error CS0246: Microsoft' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\PieceTest.cs(1,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\PieceTest.cs(3,7): error CS0246: Microsoft' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(1,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(2,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\Properties\AssemblyInfo.cs(3,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(1,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(2,7): error CS0246: Microsoft' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\BoardTest.cs(1,7): error CS0246: System' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\BoardTest.cs(3,7): error CS0246: Microsoft' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(6,6): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(6,6): error CS0246: TestClassAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(6,6): error CS0246: TestClass' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(7,18): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(11,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(25,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(35,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(45,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(52,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(65,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(72,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(80,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(87,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(95,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(103,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(111,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(120,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(129,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(139,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(150,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(161,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(171,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(181,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(190,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(10,10): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(10,10): error CS0246: TestMethodAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\GameTest.cs(10,10): error CS0246: TestMethod' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\BoardTest.cs(7,6): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\BoardTest.cs(7,6): error CS0246: TestClassAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\BoardTest.cs(7,6): error CS0246: TestClass' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\BoardTest.cs(8,18): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\PieceTest.cs(7,6): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\PieceTest.cs(7,6): error CS0246: TestClassAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\PieceTest.cs(7,6): error CS0246: TestClass' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\PieceTest.cs(8,18): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\PieceFactoryTest.cs(7,6): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\PieceFactoryTest.cs(7,6): error CS0246: TestClassAttribute' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\PieceFactoryTest.cs(7,6): error CS0246: TestClass' 형식 또는 네임스페이스 이름을 찾을 수 없습니다. using 지시문 또는 어셈블리 참조가 있는지 확인하세요.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\PieceFactoryTest.cs(8,18): error CS0518: 미리 정의된 형식 'System.Object'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\PieceTest.cs(11,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\BoardTest.cs(11,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\PieceTest.cs(21,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\PieceTest.cs(28,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\PieceTest.cs(37,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\BoardTest.cs(21,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\BoardTest.cs(27,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\PieceFactoryTest.cs(11,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\PieceFactoryTest.cs(18,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\BoardTest.cs(50,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\PieceTest.cs(46,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\BoardTest.cs(73,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+C:\Users\mac1\Downloads\build\C#\Tetris\Tetris.GameEngine.Test\PieceTest.cs(54,16): error CS0518: 미리 정의된 형식 'System.Void'을(를) 정의하지 않았거나 가져오지 않았습니다.
+Error 개수가 100개를 초과하였습니다.
+발생된 Error 부터 해결하는 것이 바람직합니다.
+Error: 1334
+Warning: 1
+Compile Failed.
+
+
+Summary
+Compile Success: 0 Project(s).
+Compile Failed: 4 Project(s).
+Error  : 2386
+Warning: 4
