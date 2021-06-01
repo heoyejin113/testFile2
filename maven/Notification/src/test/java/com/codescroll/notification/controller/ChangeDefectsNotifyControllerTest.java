@@ -51,7 +51,7 @@ public class ChangeDefectsNotifyControllerTest {
 //    mockMvc.perform(
 //            post("/changeDefects").contentType(MediaType.APPLICATION_JSON).content(json))
 //            .andExpect(status().isOk());
-
-  }
 	System.out.println("hello java!");
+  }
+	
 }
