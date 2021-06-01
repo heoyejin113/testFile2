@@ -1,0 +1,48 @@
+[INFO ] [main] Importing project.
+[INFO ] [main] Importing ruleSet.
+[INFO ] [main] Importing analysis exclusion.
+[INFO ] [main] Creating new revision.
+[INFO ] [main] Start Analysis.
+[INFO ] [main] Updating revision.: PENDING
+[INFO ] [main] Updating revision.: ANALYZING
+[INFO ] [main] JavaClasspath initialization
+[INFO ] [main] JavaClasspath initialization (done) | time=39ms
+[INFO ] [main] JavaTestClasspath initialization
+[INFO ] [main] JavaTestClasspath initialization (done) | time=27ms
+[INFO ] [main] Java Main Files AST scan
+[INFO ] [main] 35 source files to be analyzed
+[INFO ] [Report about progress of Java AST analyzer] 35/35 source files have been analyzed
+[WARN ] [main] Classes not found during the analysis : [javax.annotation.meta.When, org.apache.http.client.HttpClient, org.apache.http.client.config.RequestConfig, org.apache.http.client.config.RequestConfig$Builder, org.apache.http.client.methods.HttpUriRequest, org.apache.http.protocol.HttpContext]
+[INFO ] [main] Java Main Files AST scan (done) | time=2531ms
+[INFO ] [main] Java Test Files AST scan
+[INFO ] [main] 11 source files to be analyzed
+[ERROR] [main] Unable to parse source file : 'src/test/java/com/codescroll/notification/controller/ChangeDefectsNotifyControllerTest.java'
+[ERROR] [main] Parse error at line 56 column 20:
+
+46: //
+47: //    ObjectMapper mapper = new ObjectMapper();
+48: //    String json = mapper.writeValueAsString(changeDefects);
+49: 
+50:     // WHEN ============================
+51: //    mockMvc.perform(
+52: //            post("/changeDefects").contentType(MediaType.APPLICATION_JSON).content(json))
+53: //            .andExpect(status().isOk());
+54: 
+55:   }
+56:  System.out.println("hello java!");
+                       ^
+57: }
+58: 
+
+[INFO ] [Report about progress of Java AST analyzer] 11/11 source files have been analyzed
+[INFO ] [main] Java Test Files AST scan (done) | time=499ms
+[INFO ] [main] Collecting File committer
+[INFO ] [main] Updating revision.: FINISHED
+[INFO ] [main] Uploading project source file.
+[INFO ] [main] Creating defect file for upload.
+[INFO ] [main] Uploading defects.
+[INFO ] [main] Creating metric file for upload.
+[INFO ] [main] Uploading metrics.
+[INFO ] [main] Uploading analysis log.
+[INFO ] [main] Finish Analysis.
+[INFO ] [main] Writing hints in C:\Users\mac1\Downloads\gitTest2\maven\Notification\.hint
