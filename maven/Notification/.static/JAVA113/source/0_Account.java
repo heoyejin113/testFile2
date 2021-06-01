@@ -5,7 +5,7 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class Account {
+public class Account {//commitTest입니다. 
   private long id;
   private boolean active;
   private String email;
