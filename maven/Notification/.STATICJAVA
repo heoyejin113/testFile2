@@ -1,13 +1,13 @@
 {
-  "rootDir": "C:\\Users\\mac1\\Downloads\\build\\maven\\Notification",
+  "rootDir": "C:\\Users\\mac1\\Downloads\\gitTest2\\maven\\Notification",
   "javaVersion": "1.8",
   "modules": [
     {
       "moduleName": "Notification",
-      "baseDir": "C:\\Users\\mac1\\Downloads\\build\\maven\\Notification",
+      "baseDir": "C:\\Users\\mac1\\Downloads\\gitTest2\\maven\\Notification",
       "main": {
         "sources": [
-          "C:\\Users\\mac1\\Downloads\\build\\maven\\Notification\\src\\main\\java"
+          "C:\\Users\\mac1\\Downloads\\gitTest2\\maven\\Notification\\src\\main\\java"
         ],
         "libraries": [
           "C:\\Program Files (x86)\\Maven\\apache-maven-3.6.2\\repository\\com\\codescroll\\commons\\1.0-SNAPSHOT\\commons-1.0-SNAPSHOT.jar",
@@ -182,15 +182,15 @@
           "C:\\Program Files (x86)\\Maven\\apache-maven-3.6.2\\repository\\net\\logstash\\logback\\logstash-logback-encoder\\4.6\\logstash-logback-encoder-4.6.jar"
         ],
         "binaries": [
-          "C:\\Users\\mac1\\Downloads\\build\\maven\\Notification\\target\\classes"
+          "C:\\Users\\mac1\\Downloads\\gitTest2\\maven\\Notification\\target\\classes"
         ]
       },
       "test": {
         "sources": [
-          "C:\\Users\\mac1\\Downloads\\build\\maven\\Notification\\src\\test\\java"
+          "C:\\Users\\mac1\\Downloads\\gitTest2\\maven\\Notification\\src\\test\\java"
         ],
         "libraries": [
-          "C:\\Users\\mac1\\Downloads\\build\\maven\\Notification\\target\\classes",
+          "C:\\Users\\mac1\\Downloads\\gitTest2\\maven\\Notification\\target\\classes",
           "C:\\Program Files (x86)\\Maven\\apache-maven-3.6.2\\repository\\com\\codescroll\\commons\\1.0-SNAPSHOT\\commons-1.0-SNAPSHOT.jar",
           "C:\\Program Files (x86)\\Maven\\apache-maven-3.6.2\\repository\\com\\fasterxml\\jackson\\core\\jackson-databind\\2.9.8\\jackson-databind-2.9.8.jar",
           "C:\\Program Files (x86)\\Maven\\apache-maven-3.6.2\\repository\\com\\fasterxml\\jackson\\core\\jackson-annotations\\2.9.0\\jackson-annotations-2.9.0.jar",
