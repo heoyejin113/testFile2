@@ -1,0 +1,59 @@
+(13036)(    2)ME: C:\Program Files (x86)\GnuWin32\bin\make.exe
+(13036)(    2) + HOME: C:\Users\mac1\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.1.6\
+(13036)(    2) + WORKING: C:\Users\mac1\Downloads\gitTest2\make\.staticdata
+(13036) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(13036)(    2) + Ignored EXENAME: make
+( 1724)(    4)ME: c:\mingw\bin\..\libexec\gcc\mingw32\6.3.0\cc1.exe
+( 1724)(    4) + HOME: C:\Users\mac1\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.1.6\
+( 1724)(    4) + WORKING: C:\Users\mac1\Downloads\gitTest2\make\.staticdata
+( 1724) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 1724)(    4)ME: c:\mingw\bin\..\libexec\gcc\mingw32\6.3.0\cc1.exe
+( 1724)(    4) + HOME: C:\Users\mac1\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.1.6\
+( 1724)(    4) + WORKING: C:\Users\mac1\Downloads\gitTest2\make\.staticdata
+( 1724) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(13932)(    5)ME: c:\mingw\bin\..\lib\gcc\mingw32\6.3.0\..\..\..\..\mingw32\bin\as.exe
+(13932)(    5) + HOME: C:\Users\mac1\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.1.6\
+(13932)(    5) + WORKING: C:\Users\mac1\Downloads\gitTest2\make\.staticdata
+(13932) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(13932)(    5) + Ignored EXENAME: as
+(13932)(    5)ME: c:\mingw\bin\..\lib\gcc\mingw32\6.3.0\..\..\..\..\mingw32\bin\as.exe
+(13932)(    5) + HOME: C:\Users\mac1\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.1.6\
+(13932)(    5) + WORKING: C:\Users\mac1\Downloads\gitTest2\make\.staticdata
+(13932) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 8076)(    3)ME: C:\MinGW\bin\gcc.exe
+( 8076)(    3) + HOME: C:\Users\mac1\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.1.6\
+( 8076)(    3) + WORKING: C:\Users\mac1\Downloads\gitTest2\make\.staticdata
+( 8076) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 8076)(    3)ME: C:\MinGW\bin\gcc.exe
+( 8076)(    3) + HOME: C:\Users\mac1\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.1.6\
+( 8076)(    3) + WORKING: C:\Users\mac1\Downloads\gitTest2\make\.staticdata
+( 8076) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(12916)(    7)ME: c:\mingw\bin\..\libexec\gcc\mingw32\6.3.0\collect2.exe
+(12916)(    7) + HOME: C:\Users\mac1\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.1.6\
+(12916)(    7) + WORKING: C:\Users\mac1\Downloads\gitTest2\make\.staticdata
+(12916) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(12916)(    7) + Ignored EXENAME: collect2
+( 1760)(    8)ME: c:\mingw\bin\..\lib\gcc\mingw32\6.3.0\..\..\..\..\mingw32\bin\ld.exe
+( 1760)(    8) + HOME: C:\Users\mac1\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.1.6\
+( 1760)(    8) + WORKING: C:\Users\mac1\Downloads\gitTest2\make\.staticdata
+( 1760) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 1760)(    8)ME: c:\mingw\bin\..\lib\gcc\mingw32\6.3.0\..\..\..\..\mingw32\bin\ld.exe
+( 1760)(    8) + HOME: C:\Users\mac1\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.1.6\
+( 1760)(    8) + WORKING: C:\Users\mac1\Downloads\gitTest2\make\.staticdata
+( 1760) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(12916)(    7)ME: c:\mingw\bin\..\libexec\gcc\mingw32\6.3.0\collect2.exe
+(12916)(    7) + HOME: C:\Users\mac1\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.1.6\
+(12916)(    7) + WORKING: C:\Users\mac1\Downloads\gitTest2\make\.staticdata
+(12916) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(10952)(    6)ME: C:\MinGW\bin\gcc.exe
+(10952)(    6) + HOME: C:\Users\mac1\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.1.6\
+(10952)(    6) + WORKING: C:\Users\mac1\Downloads\gitTest2\make\.staticdata
+(10952) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(10952)(    6)ME: C:\MinGW\bin\gcc.exe
+(10952)(    6) + HOME: C:\Users\mac1\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.1.6\
+(10952)(    6) + WORKING: C:\Users\mac1\Downloads\gitTest2\make\.staticdata
+(10952) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(13036)(    2)ME: C:\Program Files (x86)\GnuWin32\bin\make.exe
+(13036)(    2) + HOME: C:\Users\mac1\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v1.1.6\
+(13036)(    2) + WORKING: C:\Users\mac1\Downloads\gitTest2\make\.staticdata
+(13036) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr

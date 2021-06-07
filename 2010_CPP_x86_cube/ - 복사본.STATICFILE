@@ -1,0 +1,73 @@
+{
+    "REANALYZE": false,
+    "WORKING_DIR": "C:\\Users\\mac1\\Downloads\\gitTest2\\2010_CPP_x86_cube\\.staticdata",
+    "COMPILER_INSTALLATION_PATH": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio 10.0"
+    ],
+    "PRE_BUILD_COMMAND": "",
+    "COMMAND": [
+        "msbuild",
+        "cube.sln",
+        "/t:rebuild"
+    ],
+    "STATIC_SERVER_ADDRESS": "211.116.223.195",
+    "PROJECT_KEY": "CE24",
+    "TOOLCHAIN_FILENAME": "Microsoft_VisualStudio_2010_None_Host_CCPP.sconf",
+    "PARSING": {
+        "C": {
+            "include": [
+                "C:\\Program Files (x86)\\Microsoft Visual Studio 10.0\\VC\\ATLMFC\\INCLUDE",
+                "C:\\Program Files (x86)\\Microsoft Visual Studio 10.0\\VC\\INCLUDE",
+                "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v7.0A\\Include"
+            ],
+            "conf": [],
+            "removes": []
+        },
+        "CPP": {
+            "include": [
+                "C:\\Program Files (x86)\\Microsoft Visual Studio 10.0\\VC\\ATLMFC\\INCLUDE",
+                "C:\\Program Files (x86)\\Microsoft Visual Studio 10.0\\VC\\INCLUDE",
+                "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v7.0A\\Include"
+            ],
+            "conf": [],
+            "removes": []
+        }
+    },
+    "USER_DEFINED_EXTENSIONS": {
+        "header": [
+            ".h",
+            ".H",
+            ".hpp",
+            ".HPP",
+            ".tcc",
+            ".inl",
+            ".INL"
+        ],
+        "source": [
+            ".c",
+            ".C",
+            ".c++",
+            ".C++",
+            ".cpp",
+            ".CPP",
+            ".cxx",
+            ".CXX",
+            ".cc",
+            ".CC",
+            ".cp",
+            ".CP"
+        ],
+        "object": [
+            ".o",
+            ".O",
+            ".lo",
+            ".obj",
+            ".OBJ"
+        ]
+    },
+    "MULTI_PROCESSOR": false,
+    "EXCLUSIONS": [
+        "**/C:/USERS/MAC1/DESKTOP/GIT/VPES_GIT_STUDY/2010_CPP_X86_CUBE/ADD.CPP"
+    ],
+    "EXTRA_OPTIONS": {}
+}

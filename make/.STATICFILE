@@ -9,7 +9,7 @@
         "make"
     ],
     "STATIC_SERVER_ADDRESS": "211.116.223.195",
-    "PROJECT_KEY": "AAA1112",
+    "PROJECT_KEY": "GIT3",
     "TOOLCHAIN_FILENAME": "parser.sconf",
     "PARSING": {
         "C": {
@@ -61,7 +61,7 @@
     "EXCLUSIONS": [],
     "EXTRA_OPTIONS": {
         "ASSIGN_TO_COMMITTER": {
-            "enable": false,
+            "enable": true,
             "path_replace_map": [
                 {
                     "from": "",

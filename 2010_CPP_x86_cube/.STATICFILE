@@ -1,6 +1,6 @@
 {
     "REANALYZE": false,
-    "WORKING_DIR": "C:\\Users\\mac1\\Desktop\\git\\vpes_git_study\\2010_CPP_x86_cube\\.staticdata",
+    "WORKING_DIR": "C:\\Users\\mac1\\Downloads\\gitTest2\\2010_CPP_x86_cube\\.staticdata",
     "COMPILER_INSTALLATION_PATH": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio 10.0"
     ],
@@ -11,7 +11,7 @@
         "/t:rebuild"
     ],
     "STATIC_SERVER_ADDRESS": "211.116.223.195",
-    "PROJECT_KEY": "UCC1",
+    "PROJECT_KEY": "GIT2",
     "TOOLCHAIN_FILENAME": "Microsoft_VisualStudio_2010_None_Host_CCPP.sconf",
     "PARSING": {
         "C": {
@@ -20,7 +20,9 @@
                 "C:\\Program Files (x86)\\Microsoft Visual Studio 10.0\\VC\\INCLUDE",
                 "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v7.0A\\Include"
             ],
-            "conf": [],
+            "conf": [
+                "cs_encoding"
+            ],
             "removes": []
         },
         "CPP": {
@@ -29,7 +31,9 @@
                 "C:\\Program Files (x86)\\Microsoft Visual Studio 10.0\\VC\\INCLUDE",
                 "C:\\Program Files (x86)\\Microsoft SDKs\\Windows\\v7.0A\\Include"
             ],
-            "conf": [],
+            "conf": [
+                "cs_encoding"
+            ],
             "removes": []
         }
     },
@@ -69,5 +73,15 @@
     "EXCLUSIONS": [
         "**/C:/USERS/MAC1/DESKTOP/GIT/VPES_GIT_STUDY/2010_CPP_X86_CUBE/ADD.CPP"
     ],
-    "EXTRA_OPTIONS": {}
+    "EXTRA_OPTIONS": {
+        "ASSIGN_TO_COMMITTER": {
+            "enable": true,
+            "path_replace_map": [
+                {
+                    "from": "",
+                    "to": ""
+                }
+            ]
+        }
+    }
 }

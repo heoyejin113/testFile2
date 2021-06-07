@@ -1,4 +1,4 @@
-// cubeview.cpp : implementation of the CCubeView class
+// cubeview.cpp : implementation of the CCubeView class 
 //
 // This is a part of the Microsoft Foundation Classes C++ library.
 // Copyright (c) Microsoft Corporation.  All rights reserved.
@@ -360,7 +360,7 @@ void CCubeView::CreateRGBPalette()
 					ComponentFromIndex(i, pfd.cGreenBits, pfd.cGreenShift);
 			pPal->palPalEntry[i].peBlue =
 					ComponentFromIndex(i, pfd.cBlueBits, pfd.cBlueShift);
-			pPal->palPalEntry[i].peFlags = 0;
+			pPal->palPalEntry[i].peFlags = 0;/* [CS_IGNORE=INT03_C;ÀÏ´Ü ÇÑ±ÛÀÌ¶û ¶ç¾î¾²±â¶û ´Ù123ÇØº½.english.~!@#$%^&*()-_=+\|{}:"<>?;',./] */
 		}
 
 		/* fix up the palette to include the default GDI palette */

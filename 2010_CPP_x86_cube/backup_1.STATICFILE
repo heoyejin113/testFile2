@@ -1,0 +1,67 @@
+{
+    "REANALYZE": false,
+    "WORKING_DIR": "C:\\Users\\mac1\\Downloads\\gitTest2\\2010_CPP_x86_cube\\.staticdata",
+    "COMPILER_INSTALLATION_PATH": [],
+    "PRE_BUILD_COMMAND": "",
+    "COMMAND": [],
+    "STATIC_SERVER_ADDRESS": "",
+    "PROJECT_KEY": "",
+    "TOOLCHAIN_FILENAME": "",
+    "PARSING": {
+        "C": {
+            "include": [],
+            "conf": [],
+            "removes": []
+        },
+        "CPP": {
+            "include": [],
+            "conf": [],
+            "removes": []
+        }
+    },
+    "USER_DEFINED_EXTENSIONS": {
+        "header": [
+            ".h",
+            ".H",
+            ".hpp",
+            ".HPP",
+            ".tcc",
+            ".inl",
+            ".INL"
+        ],
+        "source": [
+            ".c",
+            ".C",
+            ".c++",
+            ".C++",
+            ".cpp",
+            ".CPP",
+            ".cxx",
+            ".CXX",
+            ".cc",
+            ".CC",
+            ".cp",
+            ".CP"
+        ],
+        "object": [
+            ".o",
+            ".O",
+            ".lo",
+            ".obj",
+            ".OBJ"
+        ]
+    },
+    "MULTI_PROCESSOR": false,
+    "EXCLUSIONS": [],
+    "EXTRA_OPTIONS": {
+		   "ASSIGN_TO_COMMITTER": {
+            "enable": true,
+            "path_replace_map": [
+                {
+                    "from": "",
+                    "to": ""
+                }
+            ]
+        },
+	}
+}
